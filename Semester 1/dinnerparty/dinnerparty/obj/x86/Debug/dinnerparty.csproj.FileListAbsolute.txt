@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\bin\Debug\dinnerparty.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\bin\Debug\dinnerparty.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\dinnerparty\dinnerparty\obj\x86\Debug\dinnerparty.csprojResolveAssemblyReference.cache

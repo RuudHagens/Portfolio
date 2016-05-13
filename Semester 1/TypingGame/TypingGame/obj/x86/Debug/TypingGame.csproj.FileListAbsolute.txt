@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\TypingGame\TypingGame\obj\x86\Debug\TypingGame.csprojResolveAssemblyReference.cache

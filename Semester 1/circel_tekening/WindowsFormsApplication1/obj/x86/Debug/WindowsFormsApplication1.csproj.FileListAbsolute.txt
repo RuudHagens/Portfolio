@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\circel_tekening\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\bin\Debug\ADayAtTheRaces.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\ADayAtTheRaces\ADayAtTheRaces\obj\x86\Debug\ADayAtTheRaces.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\bin\Debug\talker.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\bin\Debug\talker.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\talker\talker\obj\x86\Debug\talker.csprojResolveAssemblyReference.cache

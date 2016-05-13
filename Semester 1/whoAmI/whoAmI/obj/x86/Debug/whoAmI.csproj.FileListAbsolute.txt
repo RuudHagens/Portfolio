@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\bin\Debug\whoAmI.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\bin\Debug\whoAmI.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.Form1.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\whoAmI\whoAmI\obj\x86\Debug\whoAmI.csprojResolveAssemblyReference.cache

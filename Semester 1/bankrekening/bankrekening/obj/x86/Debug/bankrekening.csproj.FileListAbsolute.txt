@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\bin\Debug\bankrekening.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\bin\Debug\bankrekening.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.BankrekeningForm.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.exe
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.pdb
+C:\Users\Ruud\Documents\fontys\P2\SE\bankrekening\bankrekening\obj\x86\Debug\bankrekening.csprojResolveAssemblyReference.cache
