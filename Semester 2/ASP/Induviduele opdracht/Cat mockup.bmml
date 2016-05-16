@@ -1,0 +1,45 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="893" measuredH="432" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="443" y="32" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Categorie%EBn%0Ahttp%3A//MyCom.nl/cat</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="458" y="134" w="-1" h="-1" measuredW="118" measuredH="111" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Catnaam%2C%20Aantal%0ASubcat%201%2C%2037%0ASubcat%202%2C%2034%0ASubcat%203%2C%2082</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="458" y="269" w="118" h="111" measuredW="106" measuredH="111" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Merk%2C%20Aantal%0AMerk%201%2C%2021%0AMerk%202%2C%204%0AMerk%203%2C%2041</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="591" y="139" w="111" h="100" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>subcat%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="742" y="139" w="111" h="101" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>subcat%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="591" y="274" w="111" h="100" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>subcat%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="742" y="274" w="111" h="100" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>subcat%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="556" y="107" w="-1" h="-1" measuredW="225" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cat%2C%20Cat%2C%20Cat%2C%20Cat%2C%20Cat</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

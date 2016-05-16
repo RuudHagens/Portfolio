@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\Debug\induviduele opdracht MyCom.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\Debug\induviduele opdracht MyCom.Tests.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\Debug\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\Debug\induviduele opdracht MyCom.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\Debug\induviduele opdracht MyCom.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\Debug\induviduele opdracht MyCom.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\Debug\induviduele opdracht MyCom.Tests.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\Debug\Oracle.DataAccess.dll

@@ -1,0 +1,13 @@
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.dll.config
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\induviduele opdracht MyCom.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\induviduele opdracht MyCom.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\Oracle.DataAccess.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.dll.config
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\bin\induviduele opdracht MyCom.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\Induviduele opdracht MyCom.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\induviduele opdracht MyCom\induviduele opdracht MyCom\obj\Debug\induviduele opdracht MyCom.pdb

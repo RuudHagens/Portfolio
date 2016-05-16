@@ -1,0 +1,7 @@
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\x86\Debug\induviduele opdracht MyCom.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\x86\Debug\induviduele opdracht MyCom.Tests.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\x86\Debug\induviduele opdracht MyCom.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\bin\x86\Debug\induviduele opdracht MyCom.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\x86\Debug\Induviduele opdracht MyCom.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\x86\Debug\induviduele opdracht MyCom.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SE2\Induviduele opdracht\program\induviduele opdracht MyCom\induviduele opdracht MyCom.Tests\obj\x86\Debug\induviduele opdracht MyCom.Tests.pdb

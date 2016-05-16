@@ -1,0 +1,35 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="893" measuredH="441" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="443" y="41" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Homepage%0Ahttp%3A//Mycom.nl</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::List" x="452" y="135" w="120" h="126" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hoofdcategorie%201%0AHoofdcategorie%202%0AHoofdcategorie%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="452" y="261" w="420" h="140" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Info</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::List" x="599" y="135" w="120" h="126" measuredW="100" measuredH="126" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subcat%201%0ASubcat%202%0ASubcat%203</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::List" x="752" y="135" w="120" h="126" measuredW="100" measuredH="126" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Subcat%204%0ASubcat%205%0ASubcat%206</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::ButtonBar" x="550" y="110" w="-1" h="-1" measuredW="225" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cat%2C%20Cat%2C%20Cat%2C%20Cat%2C%20Cat</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
