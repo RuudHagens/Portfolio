@@ -1,0 +1,9 @@
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\bin\Debug\Student Comparor.exe.config
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student Comparor.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student_Comparor.Form1.resources
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student_Comparor.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student Comparor.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\bin\Debug\Student Comparor.exe
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\bin\Debug\Student Comparor.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student Comparor.exe
+C:\Users\Ruud\Documents\fontys\S2\SE2\Student Comparor\Student Comparor\obj\Debug\Student Comparor.pdb
