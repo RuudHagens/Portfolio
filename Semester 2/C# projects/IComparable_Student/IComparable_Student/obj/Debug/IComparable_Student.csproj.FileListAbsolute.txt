@@ -1,0 +1,27 @@
+c:\users\kevin\documents\visual studio 2013\Projects\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Form1.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.exe
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.pdb
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe.config
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.exe
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.pdb
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.pdb
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Form1.resources
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Properties.Resources.resources
+C:\Users\Hugo\Dropbox\Schoolpersonal\PTS groep A\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe.config
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.exe
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.pdb
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Form1.resources
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\obj\Debug\IComparable_Student.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.exe
+C:\Users\Ruud\Documents\fontys\S2\SE2\IComparable_Student\IComparable_Student\bin\Debug\IComparable_Student.pdb
