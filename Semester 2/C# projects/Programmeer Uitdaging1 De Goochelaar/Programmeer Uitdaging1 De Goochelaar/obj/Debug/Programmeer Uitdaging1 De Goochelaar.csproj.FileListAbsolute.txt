@@ -1,0 +1,9 @@
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\bin\Debug\Programmeer Uitdaging1 De Goochelaar.exe.config
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\bin\Debug\Programmeer Uitdaging1 De Goochelaar.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\bin\Debug\Programmeer Uitdaging1 De Goochelaar.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer Uitdaging1 De Goochelaar.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer_Uitdaging1_De_Goochelaar.Form1.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer_Uitdaging1_De_Goochelaar.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer Uitdaging1 De Goochelaar.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer Uitdaging1 De Goochelaar.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Programmeer Uitdaging1 De Goochelaar\Programmeer Uitdaging1 De Goochelaar\obj\Debug\Programmeer Uitdaging1 De Goochelaar.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\bin\Debug\PretparkenApp.exe.config
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.PretparkenApp.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\bin\Debug\PretparkenApp.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\bin\Debug\PretparkenApp.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\PretparkenApp\PretparkenApp\obj\Debug\PretparkenApp.pdb

@@ -1,0 +1,26 @@
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe.config
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker_week2.Form1.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker_week2.Properties.Resources.resources
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.csproj.GenerateResource.Cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.exe
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe.manifest
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.application
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.exe.manifest
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.application
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe.config
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.exe
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.pdb
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe.manifest
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.application
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.exe
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\bin\Debug\CookieClicker week2.pdb
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker_week2.Form1.resources
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker_week2.Properties.Resources.resources
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.csproj.GenerateResource.Cache
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.exe.manifest
+C:\Users\Ruud\Dropbox\Se2 maatwerk s2\CookieClicker week2\CookieClicker week2\obj\Debug\CookieClicker week2.application
