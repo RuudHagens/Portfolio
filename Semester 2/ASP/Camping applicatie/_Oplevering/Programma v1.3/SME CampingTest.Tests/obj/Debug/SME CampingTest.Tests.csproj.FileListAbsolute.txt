@@ -1,0 +1,8 @@
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\bin\Debug\SME CampingTest.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\bin\Debug\SME CampingTest.Tests.pdb
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\bin\Debug\SME Camping.dll
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\bin\Debug\SME Camping.pdb
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\obj\Debug\SME CampingTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\obj\Debug\SME CampingTest.Tests.dll
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\obj\Debug\SME CampingTest.Tests.pdb
+C:\Users\Ruud\Documents\fontys\S2\SME ASP\SME Camping\SME CampingTest.Tests\bin\Debug\Oracle.DataAccess.dll

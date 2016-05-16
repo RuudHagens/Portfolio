@@ -1,0 +1,6 @@
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\bin\SME Camping.dll.config
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\bin\SME Camping.dll
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\bin\SME Camping.pdb
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\obj\x64\Debug\SME Camping.dll
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\obj\x64\Debug\SME Camping.pdb
+C:\Users\Hugo\Desktop\SME Camping\SME Camping\obj\x64\Debug\SME Camping.csprojResolveAssemblyReference.cache

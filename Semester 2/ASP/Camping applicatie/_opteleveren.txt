@@ -1,0 +1,16 @@
+Software
+-Applicatie
+-?
+
+Database
+-niets (Database scripts zelf?)
+
+Infra
+-niets
+
+Documenten
+-Analyse document
+-PID
+-Ontwerp document
+-Project Dossier
+-Acceptatie testplan(Zondag)

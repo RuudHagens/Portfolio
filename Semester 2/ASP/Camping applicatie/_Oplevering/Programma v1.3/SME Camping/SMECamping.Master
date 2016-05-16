@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SMECamping.master.cs" Inherits="SME_Camping.SMECamping" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="Styles/masterpage.css" type="text/css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id ="wrapper">
+            <div id ="banner">
+
+                <asp:ImageButton ID="logo"  runat="server" ImageUrl="~/Images/icon.png" Width="10%" OnClick="logo_Click" />
+
+                <asp:Image ID="BannerImg" runat="server" ImageUrl="~/Images/green_banner_low_72dpireverse.jpg" Width="100%" Height="100%" />
+
+            </div>
+            <div id="navigation"> 
+                <ul id="nav">
+                    <li><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/pages/Home.aspx">Home</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/pages/Reservation.aspx">Reserveer</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/pages/Wall.aspx" >Wall</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/pages/Products.aspx" >Producten</asp:HyperLink></li>
+                    <li><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/pages/AccessControl.aspx" >Toegangs Controle</asp:HyperLink></li>
+                </ul>
+                <ul id="login">
+                    <asp:LinkButton ID="lbtnLogIn" runat="server" OnClick="lbtnLogIn_Click">Log In</asp:LinkButton>
+                </ul>
+            </div>
+            <div id="content">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+            </div>
+
+        </div>
+    </div>
+    </form>
+</body>
+</html>

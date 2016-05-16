@@ -1,0 +1,20 @@
+﻿body 
+{
+
+}
+
+#inforation
+{
+    position: relative;
+    margin-right: 85px;
+    background-color: red;
+}
+
+#reservationlist
+{
+    float: right;
+    position: relative;
+    text-align: left;
+    width: 80px;
+    background-color: yellow;
+}
