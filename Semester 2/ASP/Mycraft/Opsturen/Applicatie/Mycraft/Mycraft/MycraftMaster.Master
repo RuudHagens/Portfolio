@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MycraftMaster.master.cs" Inherits="Mycraft.MycraftMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="css/bootstrap.css" rel="stylesheet" />
+        <link href="css/font-awesome.min.css" rel="stylesheet" />
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="container">
+    <form id="form1" runat="server">
+    <div>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button class="navbar-toggle collapsed" aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" type="button">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="Home.aspx">Mycraft</a>
+                </div>
+                <div id="navbar" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active">
+                            <a href="Home.aspx">Home</a>
+                        </li>
+                        <li>
+                            <a href="Topicpage.aspx">Forum</a>
+                        </li>
+                        <li>
+                            <a id="navLogin" href="Loginpage.aspx" runat="server">Login</a>
+                        </li>
+                        <li>
+                            <a id="navProfiel" href="Profielpagina.aspx" runat="server">Profiel</a>
+                        </li>
+                    </ul>
+                    <div class="navbar-form navbar-right" role="search">
+                        <div class="form-group">
+                            <asp:TextBox ID="tbZoek" runat="server" CssClass ="form-control"></asp:TextBox>
+                        </div>
+                            <asp:Button ID="btnZoek" runat="server" Text="Zoek" OnClick="btnZoek_Click" CssClass="btn btn-default"/>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <div class="container" id="contentplaceholder">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+        <div class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+            <div class="container">
+                <div class="navbar-text pull-left">
+                    <p>© 2015 Mycraft inc.</p>
+                </div>
+                <div class="navbar-text pull-right">
+                    <a href="#"><i class="fa fa-car fa-2x">Facebook</i></a>
+                </div>
+            </div>
+         </div>
+        </div>
+</body>
+</html>

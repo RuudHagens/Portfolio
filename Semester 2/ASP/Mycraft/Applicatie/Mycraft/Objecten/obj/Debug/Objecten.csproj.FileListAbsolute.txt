@@ -1,0 +1,5 @@
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Objecten\bin\Debug\Objecten.dll
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Objecten\bin\Debug\Objecten.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Objecten\obj\Debug\Objecten.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Objecten\obj\Debug\Objecten.dll
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Objecten\obj\Debug\Objecten.pdb

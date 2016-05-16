@@ -1,0 +1,7 @@
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\bin\Mycraft.dll.config
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\bin\Mycraft.dll
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\bin\Mycraft.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\obj\Debug\Mycraft.csprojResolveAssemblyReference.cache
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\obj\Debug\Mycraft.dll
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\obj\Debug\Mycraft.pdb
+C:\Users\Ruud\Documents\fontys\Maatwerk s2\Se2\Mycraft\Applicatie\Mycraft\Mycraft\bin\Oracle.DataAccess.dll
