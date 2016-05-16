@@ -1,0 +1,3391 @@
+// 
+            // tb38
+            // 
+            this.tb38.Enabled = false;
+            this.tb38.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38.Location = new System.Drawing.Point(268, 15);
+            this.tb38.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38.Multiline = true;
+            this.tb38.Name = "tb38";
+            this.tb38.Size = new System.Drawing.Size(79, 38);
+            this.tb38.TabIndex = 0;
+            this.tb38.Text = "38";
+            this.tb38.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb37
+            // 
+            this.tb37.Enabled = false;
+            this.tb37.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37.Location = new System.Drawing.Point(356, 15);
+            this.tb37.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37.Multiline = true;
+            this.tb37.Name = "tb37";
+            this.tb37.Size = new System.Drawing.Size(79, 38);
+            this.tb37.TabIndex = 1;
+            this.tb37.Text = "37";
+            this.tb37.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb36
+            // 
+            this.tb36.Enabled = false;
+            this.tb36.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36.Location = new System.Drawing.Point(444, 15);
+            this.tb36.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36.Multiline = true;
+            this.tb36.Name = "tb36";
+            this.tb36.Size = new System.Drawing.Size(79, 38);
+            this.tb36.TabIndex = 2;
+            this.tb36.Text = "36";
+            this.tb36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb35
+            // 
+            this.tb35.Enabled = false;
+            this.tb35.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35.Location = new System.Drawing.Point(532, 15);
+            this.tb35.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35.Multiline = true;
+            this.tb35.Name = "tb35";
+            this.tb35.Size = new System.Drawing.Size(79, 38);
+            this.tb35.TabIndex = 3;
+            this.tb35.Text = "35";
+            this.tb35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb34
+            // 
+            this.tb34.Enabled = false;
+            this.tb34.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34.Location = new System.Drawing.Point(620, 15);
+            this.tb34.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34.Multiline = true;
+            this.tb34.Name = "tb34";
+            this.tb34.Size = new System.Drawing.Size(79, 38);
+            this.tb34.TabIndex = 4;
+            this.tb34.Text = "34";
+            this.tb34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb33
+            // 
+            this.tb33.Enabled = false;
+            this.tb33.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33.Location = new System.Drawing.Point(708, 15);
+            this.tb33.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33.Multiline = true;
+            this.tb33.Name = "tb33";
+            this.tb33.Size = new System.Drawing.Size(79, 38);
+            this.tb33.TabIndex = 5;
+            this.tb33.Text = "33";
+            this.tb33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb32
+            // 
+            this.tb32.Enabled = false;
+            this.tb32.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32.Location = new System.Drawing.Point(796, 15);
+            this.tb32.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32.Multiline = true;
+            this.tb32.Name = "tb32";
+            this.tb32.Size = new System.Drawing.Size(79, 38);
+            this.tb32.TabIndex = 6;
+            this.tb32.Text = "32";
+            this.tb32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb31
+            // 
+            this.tb31.Enabled = false;
+            this.tb31.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb31.Location = new System.Drawing.Point(884, 15);
+            this.tb31.Margin = new System.Windows.Forms.Padding(4);
+            this.tb31.Multiline = true;
+            this.tb31.Name = "tb31";
+            this.tb31.Size = new System.Drawing.Size(79, 38);
+            this.tb31.TabIndex = 7;
+            this.tb31.Text = "31";
+            this.tb31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb30
+            // 
+            this.tb30.Enabled = false;
+            this.tb30.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb30.Location = new System.Drawing.Point(972, 15);
+            this.tb30.Margin = new System.Windows.Forms.Padding(4);
+            this.tb30.Multiline = true;
+            this.tb30.Name = "tb30";
+            this.tb30.Size = new System.Drawing.Size(79, 38);
+            this.tb30.TabIndex = 8;
+            this.tb30.Text = "30";
+            this.tb30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb44
+            // 
+            this.tb44.Enabled = false;
+            this.tb44.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44.Location = new System.Drawing.Point(1429, 15);
+            this.tb44.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44.Multiline = true;
+            this.tb44.Name = "tb44";
+            this.tb44.Size = new System.Drawing.Size(79, 38);
+            this.tb44.TabIndex = 9;
+            this.tb44.Text = "44";
+            this.tb44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb43
+            // 
+            this.tb43.Enabled = false;
+            this.tb43.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43.Location = new System.Drawing.Point(1341, 15);
+            this.tb43.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43.Multiline = true;
+            this.tb43.Name = "tb43";
+            this.tb43.Size = new System.Drawing.Size(79, 38);
+            this.tb43.TabIndex = 10;
+            this.tb43.Text = "43";
+            this.tb43.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb42
+            // 
+            this.tb42.Enabled = false;
+            this.tb42.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42.Location = new System.Drawing.Point(1253, 15);
+            this.tb42.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42.Multiline = true;
+            this.tb42.Name = "tb42";
+            this.tb42.Size = new System.Drawing.Size(79, 38);
+            this.tb42.TabIndex = 11;
+            this.tb42.Text = "42";
+            this.tb42.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb41
+            // 
+            this.tb41.Enabled = false;
+            this.tb41.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41.Location = new System.Drawing.Point(1165, 15);
+            this.tb41.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41.Multiline = true;
+            this.tb41.Name = "tb41";
+            this.tb41.Size = new System.Drawing.Size(79, 38);
+            this.tb41.TabIndex = 12;
+            this.tb41.Text = "41";
+            this.tb41.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb40
+            // 
+            this.tb40.Enabled = false;
+            this.tb40.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40.Location = new System.Drawing.Point(1077, 15);
+            this.tb40.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40.Multiline = true;
+            this.tb40.Name = "tb40";
+            this.tb40.Size = new System.Drawing.Size(79, 38);
+            this.tb40.TabIndex = 13;
+            this.tb40.Text = "40";
+            this.tb40.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb58
+            // 
+            this.tb58.Enabled = false;
+            this.tb58.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58.Location = new System.Drawing.Point(1648, 15);
+            this.tb58.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58.Multiline = true;
+            this.tb58.Name = "tb58";
+            this.tb58.Size = new System.Drawing.Size(79, 38);
+            this.tb58.TabIndex = 14;
+            this.tb58.Text = "58";
+            this.tb58.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb45
+            // 
+            this.tb45.Enabled = false;
+            this.tb45.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45.Location = new System.Drawing.Point(1537, 15);
+            this.tb45.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45.Multiline = true;
+            this.tb45.Name = "tb45";
+            this.tb45.Size = new System.Drawing.Size(79, 38);
+            this.tb45.TabIndex = 15;
+            this.tb45.Text = "45";
+            this.tb45.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb45l
+            // 
+            this.tb45l.BackColor = System.Drawing.Color.Red;
+            this.tb45l.Enabled = false;
+            this.tb45l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45l.Location = new System.Drawing.Point(1537, 62);
+            this.tb45l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45l.Multiline = true;
+            this.tb45l.Name = "tb45l";
+            this.tb45l.Size = new System.Drawing.Size(79, 38);
+            this.tb45l.TabIndex = 31;
+            this.tb45l.Text = "17";
+            this.tb45l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb58l
+            // 
+            this.tb58l.BackColor = System.Drawing.Color.Salmon;
+            this.tb58l.Enabled = false;
+            this.tb58l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58l.Location = new System.Drawing.Point(1648, 62);
+            this.tb58l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58l.Multiline = true;
+            this.tb58l.Name = "tb58l";
+            this.tb58l.Size = new System.Drawing.Size(79, 38);
+            this.tb58l.TabIndex = 30;
+            this.tb58l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb40l
+            // 
+            this.tb40l.BackColor = System.Drawing.Color.Salmon;
+            this.tb40l.Enabled = false;
+            this.tb40l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40l.Location = new System.Drawing.Point(1077, 62);
+            this.tb40l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40l.Multiline = true;
+            this.tb40l.Name = "tb40l";
+            this.tb40l.Size = new System.Drawing.Size(79, 38);
+            this.tb40l.TabIndex = 29;
+            this.tb40l.Tag = "40.1";
+            this.tb40l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb41l
+            // 
+            this.tb41l.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.tb41l.Enabled = false;
+            this.tb41l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41l.Location = new System.Drawing.Point(1165, 62);
+            this.tb41l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41l.Multiline = true;
+            this.tb41l.Name = "tb41l";
+            this.tb41l.Size = new System.Drawing.Size(79, 38);
+            this.tb41l.TabIndex = 28;
+            this.tb41l.Text = "10";
+            this.tb41l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb42l
+            // 
+            this.tb42l.BackColor = System.Drawing.Color.MediumPurple;
+            this.tb42l.Enabled = false;
+            this.tb42l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42l.Location = new System.Drawing.Point(1253, 62);
+            this.tb42l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42l.Multiline = true;
+            this.tb42l.Name = "tb42l";
+            this.tb42l.Size = new System.Drawing.Size(79, 38);
+            this.tb42l.TabIndex = 27;
+            this.tb42l.Text = "5";
+            this.tb42l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb43l
+            // 
+            this.tb43l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb43l.Enabled = false;
+            this.tb43l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43l.Location = new System.Drawing.Point(1341, 62);
+            this.tb43l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43l.Multiline = true;
+            this.tb43l.Name = "tb43l";
+            this.tb43l.Size = new System.Drawing.Size(79, 38);
+            this.tb43l.TabIndex = 26;
+            this.tb43l.Text = "1";
+            this.tb43l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb44l
+            // 
+            this.tb44l.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.tb44l.Enabled = false;
+            this.tb44l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44l.Location = new System.Drawing.Point(1429, 62);
+            this.tb44l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44l.Multiline = true;
+            this.tb44l.Name = "tb44l";
+            this.tb44l.Size = new System.Drawing.Size(79, 38);
+            this.tb44l.TabIndex = 25;
+            this.tb44l.Text = "13";
+            this.tb44l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb30l
+            // 
+            this.tb30l.BackColor = System.Drawing.Color.IndianRed;
+            this.tb30l.Enabled = false;
+            this.tb30l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb30l.Location = new System.Drawing.Point(972, 62);
+            this.tb30l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb30l.Multiline = true;
+            this.tb30l.Name = "tb30l";
+            this.tb30l.Size = new System.Drawing.Size(79, 38);
+            this.tb30l.TabIndex = 24;
+            this.tb30l.Text = "16/24";
+            this.tb30l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb31l
+            // 
+            this.tb31l.BackColor = System.Drawing.Color.Salmon;
+            this.tb31l.Enabled = false;
+            this.tb31l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb31l.Location = new System.Drawing.Point(884, 62);
+            this.tb31l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb31l.Multiline = true;
+            this.tb31l.Name = "tb31l";
+            this.tb31l.Size = new System.Drawing.Size(79, 38);
+            this.tb31l.TabIndex = 23;
+            this.tb31l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb32l
+            // 
+            this.tb32l.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.tb32l.Enabled = false;
+            this.tb32l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32l.Location = new System.Drawing.Point(796, 62);
+            this.tb32l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32l.Multiline = true;
+            this.tb32l.Name = "tb32l";
+            this.tb32l.Size = new System.Drawing.Size(79, 38);
+            this.tb32l.TabIndex = 22;
+            this.tb32l.Text = "10";
+            this.tb32l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb33l
+            // 
+            this.tb33l.BackColor = System.Drawing.Color.IndianRed;
+            this.tb33l.Enabled = false;
+            this.tb33l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33l.Location = new System.Drawing.Point(708, 62);
+            this.tb33l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33l.Multiline = true;
+            this.tb33l.Name = "tb33l";
+            this.tb33l.Size = new System.Drawing.Size(79, 38);
+            this.tb33l.TabIndex = 21;
+            this.tb33l.Text = "16/24";
+            this.tb33l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb34l
+            // 
+            this.tb34l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb34l.Enabled = false;
+            this.tb34l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34l.Location = new System.Drawing.Point(620, 62);
+            this.tb34l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34l.Multiline = true;
+            this.tb34l.Name = "tb34l";
+            this.tb34l.Size = new System.Drawing.Size(79, 38);
+            this.tb34l.TabIndex = 20;
+            this.tb34l.Text = "2";
+            this.tb34l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb35l
+            // 
+            this.tb35l.BackColor = System.Drawing.Color.IndianRed;
+            this.tb35l.Enabled = false;
+            this.tb35l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35l.Location = new System.Drawing.Point(532, 62);
+            this.tb35l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35l.Multiline = true;
+            this.tb35l.Name = "tb35l";
+            this.tb35l.Size = new System.Drawing.Size(79, 38);
+            this.tb35l.TabIndex = 19;
+            this.tb35l.Text = "16/24";
+            this.tb35l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb36l
+            // 
+            this.tb36l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb36l.Enabled = false;
+            this.tb36l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36l.Location = new System.Drawing.Point(444, 62);
+            this.tb36l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36l.Multiline = true;
+            this.tb36l.Name = "tb36l";
+            this.tb36l.Size = new System.Drawing.Size(79, 38);
+            this.tb36l.TabIndex = 18;
+            this.tb36l.Text = "1";
+            this.tb36l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb37l
+            // 
+            this.tb37l.BackColor = System.Drawing.Color.MediumPurple;
+            this.tb37l.Enabled = false;
+            this.tb37l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37l.Location = new System.Drawing.Point(356, 62);
+            this.tb37l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37l.Multiline = true;
+            this.tb37l.Name = "tb37l";
+            this.tb37l.Size = new System.Drawing.Size(79, 38);
+            this.tb37l.TabIndex = 17;
+            this.tb37l.Text = "5";
+            this.tb37l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb38l
+            // 
+            this.tb38l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb38l.Enabled = false;
+            this.tb38l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38l.Location = new System.Drawing.Point(268, 62);
+            this.tb38l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38l.Multiline = true;
+            this.tb38l.Name = "tb38l";
+            this.tb38l.Size = new System.Drawing.Size(79, 38);
+            this.tb38l.TabIndex = 16;
+            this.tb38l.Text = "2";
+            this.tb38l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb45c1
+            // 
+            this.tb45c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c1.Location = new System.Drawing.Point(1537, 110);
+            this.tb45c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c1.Multiline = true;
+            this.tb45c1.Name = "tb45c1";
+            this.tb45c1.Size = new System.Drawing.Size(83, 38);
+            this.tb45c1.TabIndex = 47;
+            this.tb45c1.Tag = "45.1";
+            this.tb45c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb58c1
+            // 
+            this.tb58c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58c1.Location = new System.Drawing.Point(1648, 110);
+            this.tb58c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58c1.Multiline = true;
+            this.tb58c1.Name = "tb58c1";
+            this.tb58c1.Size = new System.Drawing.Size(79, 38);
+            this.tb58c1.TabIndex = 46;
+            this.tb58c1.Tag = "58.1";
+            this.tb58c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb58c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c1
+            // 
+            this.tb40c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c1.Location = new System.Drawing.Point(1077, 110);
+            this.tb40c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c1.Multiline = true;
+            this.tb40c1.Name = "tb40c1";
+            this.tb40c1.Size = new System.Drawing.Size(83, 38);
+            this.tb40c1.TabIndex = 45;
+            this.tb40c1.Tag = "40.1";
+            this.tb40c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb41c1
+            // 
+            this.tb41c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41c1.Location = new System.Drawing.Point(1165, 110);
+            this.tb41c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41c1.Multiline = true;
+            this.tb41c1.Name = "tb41c1";
+            this.tb41c1.Size = new System.Drawing.Size(83, 38);
+            this.tb41c1.TabIndex = 44;
+            this.tb41c1.Tag = "41.1";
+            this.tb41c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb41c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb42c1
+            // 
+            this.tb42c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42c1.Location = new System.Drawing.Point(1253, 110);
+            this.tb42c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42c1.Multiline = true;
+            this.tb42c1.Name = "tb42c1";
+            this.tb42c1.Size = new System.Drawing.Size(83, 38);
+            this.tb42c1.TabIndex = 43;
+            this.tb42c1.Tag = "42.1";
+            this.tb42c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb42c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb43c1
+            // 
+            this.tb43c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43c1.Location = new System.Drawing.Point(1341, 110);
+            this.tb43c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43c1.Multiline = true;
+            this.tb43c1.Name = "tb43c1";
+            this.tb43c1.Size = new System.Drawing.Size(83, 38);
+            this.tb43c1.TabIndex = 42;
+            this.tb43c1.Tag = "43.1";
+            this.tb43c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb43c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb44c1
+            // 
+            this.tb44c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44c1.Location = new System.Drawing.Point(1429, 110);
+            this.tb44c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44c1.Multiline = true;
+            this.tb44c1.Name = "tb44c1";
+            this.tb44c1.Size = new System.Drawing.Size(83, 38);
+            this.tb44c1.TabIndex = 41;
+            this.tb44c1.Tag = "44.1";
+            this.tb44c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb44c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb30c1
+            // 
+            this.tb30c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb30c1.Location = new System.Drawing.Point(972, 110);
+            this.tb30c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb30c1.Multiline = true;
+            this.tb30c1.Name = "tb30c1";
+            this.tb30c1.Size = new System.Drawing.Size(83, 38);
+            this.tb30c1.TabIndex = 40;
+            this.tb30c1.Tag = "30.1";
+            this.tb30c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb30c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb31c1
+            // 
+            this.tb31c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb31c1.Location = new System.Drawing.Point(884, 110);
+            this.tb31c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb31c1.Multiline = true;
+            this.tb31c1.Name = "tb31c1";
+            this.tb31c1.Size = new System.Drawing.Size(83, 38);
+            this.tb31c1.TabIndex = 39;
+            this.tb31c1.Tag = "31.1";
+            this.tb31c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb31c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb32c1
+            // 
+            this.tb32c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32c1.Location = new System.Drawing.Point(796, 110);
+            this.tb32c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32c1.Multiline = true;
+            this.tb32c1.Name = "tb32c1";
+            this.tb32c1.Size = new System.Drawing.Size(83, 38);
+            this.tb32c1.TabIndex = 38;
+            this.tb32c1.Tag = "32.1";
+            this.tb32c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb32c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb33c1
+            // 
+            this.tb33c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33c1.Location = new System.Drawing.Point(708, 110);
+            this.tb33c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33c1.Multiline = true;
+            this.tb33c1.Name = "tb33c1";
+            this.tb33c1.Size = new System.Drawing.Size(83, 38);
+            this.tb33c1.TabIndex = 37;
+            this.tb33c1.Tag = "33.1";
+            this.tb33c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb33c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb34c1
+            // 
+            this.tb34c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34c1.Location = new System.Drawing.Point(620, 110);
+            this.tb34c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34c1.Multiline = true;
+            this.tb34c1.Name = "tb34c1";
+            this.tb34c1.Size = new System.Drawing.Size(83, 38);
+            this.tb34c1.TabIndex = 36;
+            this.tb34c1.Tag = "34.1";
+            this.tb34c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb34c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb35c1
+            // 
+            this.tb35c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35c1.Location = new System.Drawing.Point(532, 110);
+            this.tb35c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35c1.Multiline = true;
+            this.tb35c1.Name = "tb35c1";
+            this.tb35c1.Size = new System.Drawing.Size(83, 38);
+            this.tb35c1.TabIndex = 35;
+            this.tb35c1.Tag = "35.1";
+            this.tb35c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb35c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb36c1
+            // 
+            this.tb36c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36c1.Location = new System.Drawing.Point(444, 110);
+            this.tb36c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36c1.Multiline = true;
+            this.tb36c1.Name = "tb36c1";
+            this.tb36c1.Size = new System.Drawing.Size(83, 38);
+            this.tb36c1.TabIndex = 34;
+            this.tb36c1.Tag = "36.1";
+            this.tb36c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb36c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb37c1
+            // 
+            this.tb37c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37c1.Location = new System.Drawing.Point(356, 110);
+            this.tb37c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37c1.Multiline = true;
+            this.tb37c1.Name = "tb37c1";
+            this.tb37c1.Size = new System.Drawing.Size(83, 38);
+            this.tb37c1.TabIndex = 33;
+            this.tb37c1.Tag = "37.1";
+            this.tb37c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb37c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb38c1
+            // 
+            this.tb38c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38c1.Location = new System.Drawing.Point(268, 110);
+            this.tb38c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38c1.Multiline = true;
+            this.tb38c1.Name = "tb38c1";
+            this.tb38c1.Size = new System.Drawing.Size(83, 38);
+            this.tb38c1.TabIndex = 32;
+            this.tb38c1.Tag = "38.1";
+            this.tb38c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb38c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c2
+            // 
+            this.tb45c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c2.Location = new System.Drawing.Point(1537, 148);
+            this.tb45c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c2.Multiline = true;
+            this.tb45c2.Name = "tb45c2";
+            this.tb45c2.Size = new System.Drawing.Size(83, 38);
+            this.tb45c2.TabIndex = 63;
+            this.tb45c2.Tag = "45.2";
+            this.tb45c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb58c2
+            // 
+            this.tb58c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58c2.Location = new System.Drawing.Point(1648, 148);
+            this.tb58c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58c2.Multiline = true;
+            this.tb58c2.Name = "tb58c2";
+            this.tb58c2.Size = new System.Drawing.Size(79, 38);
+            this.tb58c2.TabIndex = 62;
+            this.tb58c2.Tag = "58.2";
+            this.tb58c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb58c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c2
+            // 
+            this.tb40c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c2.Location = new System.Drawing.Point(1077, 148);
+            this.tb40c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c2.Multiline = true;
+            this.tb40c2.Name = "tb40c2";
+            this.tb40c2.Size = new System.Drawing.Size(83, 38);
+            this.tb40c2.TabIndex = 61;
+            this.tb40c2.Tag = "40.2";
+            this.tb40c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb41c2
+            // 
+            this.tb41c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41c2.Location = new System.Drawing.Point(1165, 148);
+            this.tb41c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41c2.Multiline = true;
+            this.tb41c2.Name = "tb41c2";
+            this.tb41c2.Size = new System.Drawing.Size(83, 38);
+            this.tb41c2.TabIndex = 60;
+            this.tb41c2.Tag = "41.2";
+            this.tb41c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb41c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb42c2
+            // 
+            this.tb42c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42c2.Location = new System.Drawing.Point(1253, 148);
+            this.tb42c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42c2.Multiline = true;
+            this.tb42c2.Name = "tb42c2";
+            this.tb42c2.Size = new System.Drawing.Size(83, 38);
+            this.tb42c2.TabIndex = 59;
+            this.tb42c2.Tag = "42.2";
+            this.tb42c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb42c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb43c2
+            // 
+            this.tb43c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43c2.Location = new System.Drawing.Point(1341, 148);
+            this.tb43c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43c2.Multiline = true;
+            this.tb43c2.Name = "tb43c2";
+            this.tb43c2.Size = new System.Drawing.Size(83, 38);
+            this.tb43c2.TabIndex = 58;
+            this.tb43c2.Tag = "43.2";
+            this.tb43c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb43c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb44c2
+            // 
+            this.tb44c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44c2.Location = new System.Drawing.Point(1429, 148);
+            this.tb44c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44c2.Multiline = true;
+            this.tb44c2.Name = "tb44c2";
+            this.tb44c2.Size = new System.Drawing.Size(83, 38);
+            this.tb44c2.TabIndex = 57;
+            this.tb44c2.Tag = "44.2";
+            this.tb44c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb44c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb30c2
+            // 
+            this.tb30c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb30c2.Location = new System.Drawing.Point(972, 148);
+            this.tb30c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb30c2.Multiline = true;
+            this.tb30c2.Name = "tb30c2";
+            this.tb30c2.Size = new System.Drawing.Size(83, 38);
+            this.tb30c2.TabIndex = 56;
+            this.tb30c2.Tag = "30.2";
+            this.tb30c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb30c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb31c2
+            // 
+            this.tb31c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb31c2.Location = new System.Drawing.Point(884, 148);
+            this.tb31c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb31c2.Multiline = true;
+            this.tb31c2.Name = "tb31c2";
+            this.tb31c2.Size = new System.Drawing.Size(83, 38);
+            this.tb31c2.TabIndex = 55;
+            this.tb31c2.Tag = "31.2";
+            this.tb31c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb31c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb32c2
+            // 
+            this.tb32c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32c2.Location = new System.Drawing.Point(796, 148);
+            this.tb32c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32c2.Multiline = true;
+            this.tb32c2.Name = "tb32c2";
+            this.tb32c2.Size = new System.Drawing.Size(83, 38);
+            this.tb32c2.TabIndex = 54;
+            this.tb32c2.Tag = "32.2";
+            this.tb32c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb32c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb33c2
+            // 
+            this.tb33c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33c2.Location = new System.Drawing.Point(708, 148);
+            this.tb33c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33c2.Multiline = true;
+            this.tb33c2.Name = "tb33c2";
+            this.tb33c2.Size = new System.Drawing.Size(83, 38);
+            this.tb33c2.TabIndex = 53;
+            this.tb33c2.Tag = "33.2";
+            this.tb33c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb33c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb34c2
+            // 
+            this.tb34c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34c2.Location = new System.Drawing.Point(620, 148);
+            this.tb34c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34c2.Multiline = true;
+            this.tb34c2.Name = "tb34c2";
+            this.tb34c2.Size = new System.Drawing.Size(83, 38);
+            this.tb34c2.TabIndex = 52;
+            this.tb34c2.Tag = "34.2";
+            this.tb34c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb34c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb35c2
+            // 
+            this.tb35c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35c2.Location = new System.Drawing.Point(532, 148);
+            this.tb35c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35c2.Multiline = true;
+            this.tb35c2.Name = "tb35c2";
+            this.tb35c2.Size = new System.Drawing.Size(83, 38);
+            this.tb35c2.TabIndex = 51;
+            this.tb35c2.Tag = "35.2";
+            this.tb35c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb35c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb36c2
+            // 
+            this.tb36c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36c2.Location = new System.Drawing.Point(444, 148);
+            this.tb36c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36c2.Multiline = true;
+            this.tb36c2.Name = "tb36c2";
+            this.tb36c2.Size = new System.Drawing.Size(83, 38);
+            this.tb36c2.TabIndex = 50;
+            this.tb36c2.Tag = "36.2";
+            this.tb36c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb36c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb37c2
+            // 
+            this.tb37c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37c2.Location = new System.Drawing.Point(356, 148);
+            this.tb37c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37c2.Multiline = true;
+            this.tb37c2.Name = "tb37c2";
+            this.tb37c2.Size = new System.Drawing.Size(83, 38);
+            this.tb37c2.TabIndex = 49;
+            this.tb37c2.Tag = "37.2";
+            this.tb37c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb37c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c3
+            // 
+            this.tb45c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c3.Location = new System.Drawing.Point(1537, 186);
+            this.tb45c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c3.Multiline = true;
+            this.tb45c3.Name = "tb45c3";
+            this.tb45c3.Size = new System.Drawing.Size(83, 38);
+            this.tb45c3.TabIndex = 79;
+            this.tb45c3.Tag = "45.3";
+            this.tb45c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb58c3
+            // 
+            this.tb58c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58c3.Location = new System.Drawing.Point(1648, 186);
+            this.tb58c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58c3.Multiline = true;
+            this.tb58c3.Name = "tb58c3";
+            this.tb58c3.Size = new System.Drawing.Size(79, 38);
+            this.tb58c3.TabIndex = 78;
+            this.tb58c3.Tag = "58.3";
+            this.tb58c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb58c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c3
+            // 
+            this.tb40c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c3.Location = new System.Drawing.Point(1077, 186);
+            this.tb40c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c3.Multiline = true;
+            this.tb40c3.Name = "tb40c3";
+            this.tb40c3.Size = new System.Drawing.Size(83, 38);
+            this.tb40c3.TabIndex = 77;
+            this.tb40c3.Tag = "40.3";
+            this.tb40c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb41c3
+            // 
+            this.tb41c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41c3.Location = new System.Drawing.Point(1165, 186);
+            this.tb41c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41c3.Multiline = true;
+            this.tb41c3.Name = "tb41c3";
+            this.tb41c3.Size = new System.Drawing.Size(83, 38);
+            this.tb41c3.TabIndex = 76;
+            this.tb41c3.Tag = "41.3";
+            this.tb41c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb41c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb42c3
+            // 
+            this.tb42c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42c3.Location = new System.Drawing.Point(1253, 186);
+            this.tb42c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42c3.Multiline = true;
+            this.tb42c3.Name = "tb42c3";
+            this.tb42c3.Size = new System.Drawing.Size(83, 38);
+            this.tb42c3.TabIndex = 75;
+            this.tb42c3.Tag = "42.3";
+            this.tb42c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb42c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb43c3
+            // 
+            this.tb43c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43c3.Location = new System.Drawing.Point(1341, 186);
+            this.tb43c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43c3.Multiline = true;
+            this.tb43c3.Name = "tb43c3";
+            this.tb43c3.Size = new System.Drawing.Size(83, 38);
+            this.tb43c3.TabIndex = 74;
+            this.tb43c3.Tag = "43.3";
+            this.tb43c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb43c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb44c3
+            // 
+            this.tb44c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44c3.Location = new System.Drawing.Point(1429, 186);
+            this.tb44c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44c3.Multiline = true;
+            this.tb44c3.Name = "tb44c3";
+            this.tb44c3.Size = new System.Drawing.Size(83, 38);
+            this.tb44c3.TabIndex = 73;
+            this.tb44c3.Tag = "44.3";
+            this.tb44c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb44c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb30c3
+            // 
+            this.tb30c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb30c3.Location = new System.Drawing.Point(972, 186);
+            this.tb30c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb30c3.Multiline = true;
+            this.tb30c3.Name = "tb30c3";
+            this.tb30c3.Size = new System.Drawing.Size(83, 38);
+            this.tb30c3.TabIndex = 72;
+            this.tb30c3.Tag = "30.3";
+            this.tb30c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb30c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb31c3
+            // 
+            this.tb31c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb31c3.Location = new System.Drawing.Point(884, 186);
+            this.tb31c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb31c3.Multiline = true;
+            this.tb31c3.Name = "tb31c3";
+            this.tb31c3.Size = new System.Drawing.Size(83, 38);
+            this.tb31c3.TabIndex = 71;
+            this.tb31c3.Tag = "31.3";
+            this.tb31c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb31c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb32c3
+            // 
+            this.tb32c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32c3.Location = new System.Drawing.Point(796, 186);
+            this.tb32c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32c3.Multiline = true;
+            this.tb32c3.Name = "tb32c3";
+            this.tb32c3.Size = new System.Drawing.Size(83, 38);
+            this.tb32c3.TabIndex = 70;
+            this.tb32c3.Tag = "32.3";
+            this.tb32c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb32c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb33c3
+            // 
+            this.tb33c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33c3.Location = new System.Drawing.Point(708, 186);
+            this.tb33c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33c3.Multiline = true;
+            this.tb33c3.Name = "tb33c3";
+            this.tb33c3.Size = new System.Drawing.Size(83, 38);
+            this.tb33c3.TabIndex = 69;
+            this.tb33c3.Tag = "33.3";
+            this.tb33c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb33c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb34c3
+            // 
+            this.tb34c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34c3.Location = new System.Drawing.Point(620, 186);
+            this.tb34c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34c3.Multiline = true;
+            this.tb34c3.Name = "tb34c3";
+            this.tb34c3.Size = new System.Drawing.Size(83, 38);
+            this.tb34c3.TabIndex = 68;
+            this.tb34c3.Tag = "34.3";
+            this.tb34c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb34c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb35c3
+            // 
+            this.tb35c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35c3.Location = new System.Drawing.Point(532, 186);
+            this.tb35c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35c3.Multiline = true;
+            this.tb35c3.Name = "tb35c3";
+            this.tb35c3.Size = new System.Drawing.Size(83, 38);
+            this.tb35c3.TabIndex = 67;
+            this.tb35c3.Tag = "35.3";
+            this.tb35c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb35c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb36c3
+            // 
+            this.tb36c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36c3.Location = new System.Drawing.Point(444, 186);
+            this.tb36c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36c3.Multiline = true;
+            this.tb36c3.Name = "tb36c3";
+            this.tb36c3.Size = new System.Drawing.Size(83, 38);
+            this.tb36c3.TabIndex = 66;
+            this.tb36c3.Tag = "36.3";
+            this.tb36c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb36c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb37c3
+            // 
+            this.tb37c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37c3.Location = new System.Drawing.Point(356, 186);
+            this.tb37c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37c3.Multiline = true;
+            this.tb37c3.Name = "tb37c3";
+            this.tb37c3.Size = new System.Drawing.Size(83, 38);
+            this.tb37c3.TabIndex = 65;
+            this.tb37c3.Tag = "37.3";
+            this.tb37c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb37c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb38c3
+            // 
+            this.tb38c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38c3.Location = new System.Drawing.Point(268, 186);
+            this.tb38c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38c3.Multiline = true;
+            this.tb38c3.Name = "tb38c3";
+            this.tb38c3.Size = new System.Drawing.Size(83, 38);
+            this.tb38c3.TabIndex = 64;
+            this.tb38c3.Tag = "38.3";
+            this.tb38c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb38c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb32c4
+            // 
+            this.tb32c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb32c4.Location = new System.Drawing.Point(796, 224);
+            this.tb32c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb32c4.Multiline = true;
+            this.tb32c4.Name = "tb32c4";
+            this.tb32c4.Size = new System.Drawing.Size(83, 38);
+            this.tb32c4.TabIndex = 86;
+            this.tb32c4.Tag = "32.4";
+            this.tb32c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb32c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb33c4
+            // 
+            this.tb33c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb33c4.Location = new System.Drawing.Point(708, 224);
+            this.tb33c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb33c4.Multiline = true;
+            this.tb33c4.Name = "tb33c4";
+            this.tb33c4.Size = new System.Drawing.Size(83, 38);
+            this.tb33c4.TabIndex = 85;
+            this.tb33c4.Tag = "33.4";
+            this.tb33c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb33c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb34c4
+            // 
+            this.tb34c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb34c4.Location = new System.Drawing.Point(620, 224);
+            this.tb34c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb34c4.Multiline = true;
+            this.tb34c4.Name = "tb34c4";
+            this.tb34c4.Size = new System.Drawing.Size(83, 38);
+            this.tb34c4.TabIndex = 84;
+            this.tb34c4.Tag = "34.4";
+            this.tb34c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb34c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb35c4
+            // 
+            this.tb35c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb35c4.Location = new System.Drawing.Point(532, 224);
+            this.tb35c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb35c4.Multiline = true;
+            this.tb35c4.Name = "tb35c4";
+            this.tb35c4.Size = new System.Drawing.Size(83, 38);
+            this.tb35c4.TabIndex = 83;
+            this.tb35c4.Tag = "35.4";
+            this.tb35c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb35c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb36c4
+            // 
+            this.tb36c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb36c4.Location = new System.Drawing.Point(444, 224);
+            this.tb36c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb36c4.Multiline = true;
+            this.tb36c4.Name = "tb36c4";
+            this.tb36c4.Size = new System.Drawing.Size(83, 38);
+            this.tb36c4.TabIndex = 82;
+            this.tb36c4.Tag = "36.4";
+            this.tb36c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb36c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb37c4
+            // 
+            this.tb37c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb37c4.Location = new System.Drawing.Point(356, 224);
+            this.tb37c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb37c4.Multiline = true;
+            this.tb37c4.Name = "tb37c4";
+            this.tb37c4.Size = new System.Drawing.Size(83, 38);
+            this.tb37c4.TabIndex = 81;
+            this.tb37c4.Tag = "37.4";
+            this.tb37c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb37c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb38c4
+            // 
+            this.tb38c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38c4.Location = new System.Drawing.Point(268, 224);
+            this.tb38c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38c4.Multiline = true;
+            this.tb38c4.Name = "tb38c4";
+            this.tb38c4.Size = new System.Drawing.Size(83, 38);
+            this.tb38c4.TabIndex = 80;
+            this.tb38c4.Tag = "38.4";
+            this.tb38c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb38c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c4
+            // 
+            this.tb40c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c4.Location = new System.Drawing.Point(1077, 224);
+            this.tb40c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c4.Multiline = true;
+            this.tb40c4.Name = "tb40c4";
+            this.tb40c4.Size = new System.Drawing.Size(83, 38);
+            this.tb40c4.TabIndex = 91;
+            this.tb40c4.Tag = "40.4";
+            this.tb40c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb41c4
+            // 
+            this.tb41c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb41c4.Location = new System.Drawing.Point(1165, 224);
+            this.tb41c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb41c4.Multiline = true;
+            this.tb41c4.Name = "tb41c4";
+            this.tb41c4.Size = new System.Drawing.Size(83, 38);
+            this.tb41c4.TabIndex = 90;
+            this.tb41c4.Tag = "41.4";
+            this.tb41c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb41c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb42c4
+            // 
+            this.tb42c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb42c4.Location = new System.Drawing.Point(1253, 224);
+            this.tb42c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb42c4.Multiline = true;
+            this.tb42c4.Name = "tb42c4";
+            this.tb42c4.Size = new System.Drawing.Size(83, 38);
+            this.tb42c4.TabIndex = 89;
+            this.tb42c4.Tag = "42.4";
+            this.tb42c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb42c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb43c4
+            // 
+            this.tb43c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb43c4.Location = new System.Drawing.Point(1341, 224);
+            this.tb43c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb43c4.Multiline = true;
+            this.tb43c4.Name = "tb43c4";
+            this.tb43c4.Size = new System.Drawing.Size(83, 38);
+            this.tb43c4.TabIndex = 88;
+            this.tb43c4.Tag = "43.4";
+            this.tb43c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb43c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb44c4
+            // 
+            this.tb44c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb44c4.Location = new System.Drawing.Point(1429, 224);
+            this.tb44c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb44c4.Multiline = true;
+            this.tb44c4.Name = "tb44c4";
+            this.tb44c4.Size = new System.Drawing.Size(83, 38);
+            this.tb44c4.TabIndex = 87;
+            this.tb44c4.Tag = "44.4";
+            this.tb44c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb44c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c5
+            // 
+            this.tb45c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c5.Location = new System.Drawing.Point(1537, 262);
+            this.tb45c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c5.Multiline = true;
+            this.tb45c5.Name = "tb45c5";
+            this.tb45c5.Size = new System.Drawing.Size(83, 38);
+            this.tb45c5.TabIndex = 95;
+            this.tb45c5.Tag = "45.5";
+            this.tb45c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb58c5
+            // 
+            this.tb58c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58c5.Location = new System.Drawing.Point(1648, 262);
+            this.tb58c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58c5.Multiline = true;
+            this.tb58c5.Name = "tb58c5";
+            this.tb58c5.Size = new System.Drawing.Size(79, 38);
+            this.tb58c5.TabIndex = 94;
+            this.tb58c5.Tag = "58.5";
+            this.tb58c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb58c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c4
+            // 
+            this.tb45c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c4.Location = new System.Drawing.Point(1537, 224);
+            this.tb45c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c4.Multiline = true;
+            this.tb45c4.Name = "tb45c4";
+            this.tb45c4.Size = new System.Drawing.Size(83, 38);
+            this.tb45c4.TabIndex = 93;
+            this.tb45c4.Tag = "45.4";
+            this.tb45c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb58c4
+            // 
+            this.tb58c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb58c4.Location = new System.Drawing.Point(1648, 224);
+            this.tb58c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb58c4.Multiline = true;
+            this.tb58c4.Name = "tb58c4";
+            this.tb58c4.Size = new System.Drawing.Size(79, 38);
+            this.tb58c4.TabIndex = 92;
+            this.tb58c4.Tag = "58.4";
+            this.tb58c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb58c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c9
+            // 
+            this.tb45c9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c9.Location = new System.Drawing.Point(1537, 415);
+            this.tb45c9.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c9.Multiline = true;
+            this.tb45c9.Name = "tb45c9";
+            this.tb45c9.Size = new System.Drawing.Size(83, 38);
+            this.tb45c9.TabIndex = 99;
+            this.tb45c9.Tag = "45.9";
+            this.tb45c9.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c9.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c8
+            // 
+            this.tb45c8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c8.Location = new System.Drawing.Point(1537, 377);
+            this.tb45c8.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c8.Multiline = true;
+            this.tb45c8.Name = "tb45c8";
+            this.tb45c8.Size = new System.Drawing.Size(83, 38);
+            this.tb45c8.TabIndex = 98;
+            this.tb45c8.Tag = "45.8";
+            this.tb45c8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c8.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c7
+            // 
+            this.tb45c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c7.Location = new System.Drawing.Point(1537, 338);
+            this.tb45c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c7.Multiline = true;
+            this.tb45c7.Name = "tb45c7";
+            this.tb45c7.Size = new System.Drawing.Size(83, 38);
+            this.tb45c7.TabIndex = 97;
+            this.tb45c7.Tag = "45.7";
+            this.tb45c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb45c6
+            // 
+            this.tb45c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb45c6.Location = new System.Drawing.Point(1537, 300);
+            this.tb45c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb45c6.Multiline = true;
+            this.tb45c6.Name = "tb45c6";
+            this.tb45c6.Size = new System.Drawing.Size(83, 38);
+            this.tb45c6.TabIndex = 96;
+            this.tb45c6.Tag = "45.6";
+            this.tb45c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb45c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c7
+            // 
+            this.tb40c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c7.Location = new System.Drawing.Point(1077, 338);
+            this.tb40c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c7.Multiline = true;
+            this.tb40c7.Name = "tb40c7";
+            this.tb40c7.Size = new System.Drawing.Size(83, 38);
+            this.tb40c7.TabIndex = 102;
+            this.tb40c7.Tag = "40.7";
+            this.tb40c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c6
+            // 
+            this.tb40c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c6.Location = new System.Drawing.Point(1077, 300);
+            this.tb40c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c6.Multiline = true;
+            this.tb40c6.Name = "tb40c6";
+            this.tb40c6.Size = new System.Drawing.Size(83, 38);
+            this.tb40c6.TabIndex = 101;
+            this.tb40c6.Tag = "40.6";
+            this.tb40c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb40c5
+            // 
+            this.tb40c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb40c5.Location = new System.Drawing.Point(1077, 262);
+            this.tb40c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb40c5.Multiline = true;
+            this.tb40c5.Name = "tb40c5";
+            this.tb40c5.Size = new System.Drawing.Size(83, 38);
+            this.tb40c5.TabIndex = 100;
+            this.tb40c5.Tag = "40.5";
+            this.tb40c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb40c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb63c3
+            // 
+            this.tb63c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63c3.Location = new System.Drawing.Point(972, 640);
+            this.tb63c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63c3.Multiline = true;
+            this.tb63c3.Name = "tb63c3";
+            this.tb63c3.Size = new System.Drawing.Size(83, 38);
+            this.tb63c3.TabIndex = 147;
+            this.tb63c3.Tag = "63.3";
+            this.tb63c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb63c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb64c3
+            // 
+            this.tb64c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64c3.Location = new System.Drawing.Point(884, 640);
+            this.tb64c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64c3.Multiline = true;
+            this.tb64c3.Name = "tb64c3";
+            this.tb64c3.Size = new System.Drawing.Size(83, 38);
+            this.tb64c3.TabIndex = 146;
+            this.tb64c3.Tag = "64.3";
+            this.tb64c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb64c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb51c3
+            // 
+            this.tb51c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51c3.Location = new System.Drawing.Point(796, 640);
+            this.tb51c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51c3.Multiline = true;
+            this.tb51c3.Name = "tb51c3";
+            this.tb51c3.Size = new System.Drawing.Size(83, 38);
+            this.tb51c3.TabIndex = 145;
+            this.tb51c3.Tag = "51.3";
+            this.tb51c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb51c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb52c3
+            // 
+            this.tb52c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c3.Location = new System.Drawing.Point(708, 640);
+            this.tb52c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c3.Multiline = true;
+            this.tb52c3.Name = "tb52c3";
+            this.tb52c3.Size = new System.Drawing.Size(83, 38);
+            this.tb52c3.TabIndex = 144;
+            this.tb52c3.Tag = "52.3";
+            this.tb52c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c3
+            // 
+            this.tb53c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c3.Location = new System.Drawing.Point(620, 640);
+            this.tb53c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c3.Multiline = true;
+            this.tb53c3.Name = "tb53c3";
+            this.tb53c3.Size = new System.Drawing.Size(83, 38);
+            this.tb53c3.TabIndex = 143;
+            this.tb53c3.Tag = "53.3";
+            this.tb53c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c3
+            // 
+            this.tb54c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c3.Location = new System.Drawing.Point(532, 640);
+            this.tb54c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c3.Multiline = true;
+            this.tb54c3.Name = "tb54c3";
+            this.tb54c3.Size = new System.Drawing.Size(83, 38);
+            this.tb54c3.TabIndex = 142;
+            this.tb54c3.Tag = "54.3";
+            this.tb54c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c3
+            // 
+            this.tb55c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c3.Location = new System.Drawing.Point(444, 640);
+            this.tb55c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c3.Multiline = true;
+            this.tb55c3.Name = "tb55c3";
+            this.tb55c3.Size = new System.Drawing.Size(83, 38);
+            this.tb55c3.TabIndex = 141;
+            this.tb55c3.Tag = "55.3";
+            this.tb55c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c3
+            // 
+            this.tb56c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c3.Location = new System.Drawing.Point(356, 640);
+            this.tb56c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c3.Multiline = true;
+            this.tb56c3.Name = "tb56c3";
+            this.tb56c3.Size = new System.Drawing.Size(83, 38);
+            this.tb56c3.TabIndex = 140;
+            this.tb56c3.Tag = "56.3";
+            this.tb56c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c3
+            // 
+            this.tb57c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c3.Location = new System.Drawing.Point(268, 640);
+            this.tb57c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c3.Multiline = true;
+            this.tb57c3.Name = "tb57c3";
+            this.tb57c3.Size = new System.Drawing.Size(83, 38);
+            this.tb57c3.TabIndex = 139;
+            this.tb57c3.Tag = "57.3";
+            this.tb57c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb63c2
+            // 
+            this.tb63c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63c2.Location = new System.Drawing.Point(972, 602);
+            this.tb63c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63c2.Multiline = true;
+            this.tb63c2.Name = "tb63c2";
+            this.tb63c2.Size = new System.Drawing.Size(83, 38);
+            this.tb63c2.TabIndex = 138;
+            this.tb63c2.Tag = "63.2";
+            this.tb63c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb63c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb64c2
+            // 
+            this.tb64c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64c2.Location = new System.Drawing.Point(884, 602);
+            this.tb64c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64c2.Multiline = true;
+            this.tb64c2.Name = "tb64c2";
+            this.tb64c2.Size = new System.Drawing.Size(83, 38);
+            this.tb64c2.TabIndex = 137;
+            this.tb64c2.Tag = "64.2";
+            this.tb64c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb64c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb51c2
+            // 
+            this.tb51c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51c2.Location = new System.Drawing.Point(796, 602);
+            this.tb51c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51c2.Multiline = true;
+            this.tb51c2.Name = "tb51c2";
+            this.tb51c2.Size = new System.Drawing.Size(83, 38);
+            this.tb51c2.TabIndex = 136;
+            this.tb51c2.Tag = "51.2";
+            this.tb51c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb51c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb52c2
+            // 
+            this.tb52c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c2.Location = new System.Drawing.Point(708, 602);
+            this.tb52c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c2.Multiline = true;
+            this.tb52c2.Name = "tb52c2";
+            this.tb52c2.Size = new System.Drawing.Size(83, 38);
+            this.tb52c2.TabIndex = 135;
+            this.tb52c2.Tag = "52.2";
+            this.tb52c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c2
+            // 
+            this.tb53c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c2.Location = new System.Drawing.Point(620, 602);
+            this.tb53c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c2.Multiline = true;
+            this.tb53c2.Name = "tb53c2";
+            this.tb53c2.Size = new System.Drawing.Size(83, 38);
+            this.tb53c2.TabIndex = 134;
+            this.tb53c2.Tag = "53.2";
+            this.tb53c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c2
+            // 
+            this.tb54c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c2.Location = new System.Drawing.Point(532, 602);
+            this.tb54c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c2.Multiline = true;
+            this.tb54c2.Name = "tb54c2";
+            this.tb54c2.Size = new System.Drawing.Size(83, 38);
+            this.tb54c2.TabIndex = 133;
+            this.tb54c2.Tag = "54.2";
+            this.tb54c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c2
+            // 
+            this.tb55c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c2.Location = new System.Drawing.Point(444, 602);
+            this.tb55c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c2.Multiline = true;
+            this.tb55c2.Name = "tb55c2";
+            this.tb55c2.Size = new System.Drawing.Size(83, 38);
+            this.tb55c2.TabIndex = 132;
+            this.tb55c2.Tag = "55.2";
+            this.tb55c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c2
+            // 
+            this.tb56c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c2.Location = new System.Drawing.Point(356, 602);
+            this.tb56c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c2.Multiline = true;
+            this.tb56c2.Name = "tb56c2";
+            this.tb56c2.Size = new System.Drawing.Size(83, 38);
+            this.tb56c2.TabIndex = 131;
+            this.tb56c2.Tag = "56.2";
+            this.tb56c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c2
+            // 
+            this.tb57c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c2.Location = new System.Drawing.Point(268, 602);
+            this.tb57c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c2.Multiline = true;
+            this.tb57c2.Name = "tb57c2";
+            this.tb57c2.Size = new System.Drawing.Size(83, 38);
+            this.tb57c2.TabIndex = 130;
+            this.tb57c2.Tag = "57.2";
+            this.tb57c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb63c1
+            // 
+            this.tb63c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63c1.Location = new System.Drawing.Point(972, 564);
+            this.tb63c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63c1.Multiline = true;
+            this.tb63c1.Name = "tb63c1";
+            this.tb63c1.Size = new System.Drawing.Size(83, 38);
+            this.tb63c1.TabIndex = 129;
+            this.tb63c1.Tag = "63.1";
+            this.tb63c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb63c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb64c1
+            // 
+            this.tb64c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64c1.Location = new System.Drawing.Point(884, 564);
+            this.tb64c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64c1.Multiline = true;
+            this.tb64c1.Name = "tb64c1";
+            this.tb64c1.Size = new System.Drawing.Size(83, 38);
+            this.tb64c1.TabIndex = 128;
+            this.tb64c1.Tag = "64.1";
+            this.tb64c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb64c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb51c1
+            // 
+            this.tb51c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51c1.Location = new System.Drawing.Point(796, 564);
+            this.tb51c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51c1.Multiline = true;
+            this.tb51c1.Name = "tb51c1";
+            this.tb51c1.Size = new System.Drawing.Size(83, 38);
+            this.tb51c1.TabIndex = 127;
+            this.tb51c1.Tag = "51.1";
+            this.tb51c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb51c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb52c1
+            // 
+            this.tb52c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c1.Location = new System.Drawing.Point(708, 564);
+            this.tb52c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c1.Multiline = true;
+            this.tb52c1.Name = "tb52c1";
+            this.tb52c1.Size = new System.Drawing.Size(83, 38);
+            this.tb52c1.TabIndex = 126;
+            this.tb52c1.Tag = "52.1";
+            this.tb52c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c1
+            // 
+            this.tb53c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c1.Location = new System.Drawing.Point(620, 564);
+            this.tb53c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c1.Multiline = true;
+            this.tb53c1.Name = "tb53c1";
+            this.tb53c1.Size = new System.Drawing.Size(83, 38);
+            this.tb53c1.TabIndex = 125;
+            this.tb53c1.Tag = "53.1";
+            this.tb53c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c1
+            // 
+            this.tb54c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c1.Location = new System.Drawing.Point(532, 564);
+            this.tb54c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c1.Multiline = true;
+            this.tb54c1.Name = "tb54c1";
+            this.tb54c1.Size = new System.Drawing.Size(83, 38);
+            this.tb54c1.TabIndex = 124;
+            this.tb54c1.Tag = "54.1";
+            this.tb54c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c1
+            // 
+            this.tb55c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c1.Location = new System.Drawing.Point(444, 564);
+            this.tb55c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c1.Multiline = true;
+            this.tb55c1.Name = "tb55c1";
+            this.tb55c1.Size = new System.Drawing.Size(83, 38);
+            this.tb55c1.TabIndex = 123;
+            this.tb55c1.Tag = "55.1";
+            this.tb55c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c1
+            // 
+            this.tb56c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c1.Location = new System.Drawing.Point(356, 564);
+            this.tb56c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c1.Multiline = true;
+            this.tb56c1.Name = "tb56c1";
+            this.tb56c1.Size = new System.Drawing.Size(83, 38);
+            this.tb56c1.TabIndex = 122;
+            this.tb56c1.Tag = "56.1";
+            this.tb56c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c1
+            // 
+            this.tb57c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c1.Location = new System.Drawing.Point(268, 564);
+            this.tb57c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c1.Multiline = true;
+            this.tb57c1.Name = "tb57c1";
+            this.tb57c1.Size = new System.Drawing.Size(83, 38);
+            this.tb57c1.TabIndex = 121;
+            this.tb57c1.Tag = "57.1";
+            this.tb57c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb63l
+            // 
+            this.tb63l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb63l.Enabled = false;
+            this.tb63l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63l.Location = new System.Drawing.Point(972, 517);
+            this.tb63l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63l.Multiline = true;
+            this.tb63l.Name = "tb63l";
+            this.tb63l.Size = new System.Drawing.Size(79, 38);
+            this.tb63l.TabIndex = 120;
+            this.tb63l.Text = "2";
+            this.tb63l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb64l
+            // 
+            this.tb64l.BackColor = System.Drawing.Color.Salmon;
+            this.tb64l.Enabled = false;
+            this.tb64l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64l.Location = new System.Drawing.Point(884, 517);
+            this.tb64l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64l.Multiline = true;
+            this.tb64l.Name = "tb64l";
+            this.tb64l.Size = new System.Drawing.Size(79, 38);
+            this.tb64l.TabIndex = 119;
+            this.tb64l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb51l
+            // 
+            this.tb51l.BackColor = System.Drawing.Color.Black;
+            this.tb51l.Enabled = false;
+            this.tb51l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51l.Location = new System.Drawing.Point(796, 517);
+            this.tb51l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51l.Multiline = true;
+            this.tb51l.Name = "tb51l";
+            this.tb51l.Size = new System.Drawing.Size(79, 38);
+            this.tb51l.TabIndex = 118;
+            this.tb51l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb52l
+            // 
+            this.tb52l.BackColor = System.Drawing.Color.Red;
+            this.tb52l.Enabled = false;
+            this.tb52l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52l.Location = new System.Drawing.Point(708, 517);
+            this.tb52l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52l.Multiline = true;
+            this.tb52l.Name = "tb52l";
+            this.tb52l.Size = new System.Drawing.Size(79, 38);
+            this.tb52l.TabIndex = 117;
+            this.tb52l.Text = "17";
+            this.tb52l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb53l
+            // 
+            this.tb53l.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.tb53l.Enabled = false;
+            this.tb53l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53l.Location = new System.Drawing.Point(620, 517);
+            this.tb53l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53l.Multiline = true;
+            this.tb53l.Name = "tb53l";
+            this.tb53l.Size = new System.Drawing.Size(79, 38);
+            this.tb53l.TabIndex = 116;
+            this.tb53l.Text = "13";
+            this.tb53l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb54l
+            // 
+            this.tb54l.BackColor = System.Drawing.Color.MediumPurple;
+            this.tb54l.Enabled = false;
+            this.tb54l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54l.Location = new System.Drawing.Point(532, 517);
+            this.tb54l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54l.Multiline = true;
+            this.tb54l.Name = "tb54l";
+            this.tb54l.Size = new System.Drawing.Size(79, 38);
+            this.tb54l.TabIndex = 115;
+            this.tb54l.Text = "5";
+            this.tb54l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb55l
+            // 
+            this.tb55l.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.tb55l.Enabled = false;
+            this.tb55l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55l.Location = new System.Drawing.Point(444, 517);
+            this.tb55l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55l.Multiline = true;
+            this.tb55l.Name = "tb55l";
+            this.tb55l.Size = new System.Drawing.Size(79, 38);
+            this.tb55l.TabIndex = 114;
+            this.tb55l.Text = "2";
+            this.tb55l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb56l
+            // 
+            this.tb56l.BackColor = System.Drawing.Color.MediumPurple;
+            this.tb56l.Enabled = false;
+            this.tb56l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56l.Location = new System.Drawing.Point(356, 517);
+            this.tb56l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56l.Multiline = true;
+            this.tb56l.Name = "tb56l";
+            this.tb56l.Size = new System.Drawing.Size(79, 38);
+            this.tb56l.TabIndex = 113;
+            this.tb56l.Text = "5";
+            this.tb56l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb57l
+            // 
+            this.tb57l.BackColor = System.Drawing.Color.IndianRed;
+            this.tb57l.Enabled = false;
+            this.tb57l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57l.Location = new System.Drawing.Point(268, 517);
+            this.tb57l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57l.Multiline = true;
+            this.tb57l.Name = "tb57l";
+            this.tb57l.Size = new System.Drawing.Size(79, 38);
+            this.tb57l.TabIndex = 112;
+            this.tb57l.Text = "16/24";
+            this.tb57l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb63
+            // 
+            this.tb63.Enabled = false;
+            this.tb63.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63.Location = new System.Drawing.Point(972, 470);
+            this.tb63.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63.Multiline = true;
+            this.tb63.Name = "tb63";
+            this.tb63.Size = new System.Drawing.Size(79, 38);
+            this.tb63.TabIndex = 111;
+            this.tb63.Text = "63";
+            this.tb63.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb64
+            // 
+            this.tb64.Enabled = false;
+            this.tb64.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64.Location = new System.Drawing.Point(884, 470);
+            this.tb64.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64.Multiline = true;
+            this.tb64.Name = "tb64";
+            this.tb64.Size = new System.Drawing.Size(79, 38);
+            this.tb64.TabIndex = 110;
+            this.tb64.Text = "64";
+            this.tb64.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb51
+            // 
+            this.tb51.Enabled = false;
+            this.tb51.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51.Location = new System.Drawing.Point(796, 470);
+            this.tb51.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51.Multiline = true;
+            this.tb51.Name = "tb51";
+            this.tb51.Size = new System.Drawing.Size(79, 38);
+            this.tb51.TabIndex = 109;
+            this.tb51.Text = "51";
+            this.tb51.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb52
+            // 
+            this.tb52.Enabled = false;
+            this.tb52.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52.Location = new System.Drawing.Point(708, 470);
+            this.tb52.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52.Multiline = true;
+            this.tb52.Name = "tb52";
+            this.tb52.Size = new System.Drawing.Size(79, 38);
+            this.tb52.TabIndex = 108;
+            this.tb52.Text = "52";
+            this.tb52.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb53
+            // 
+            this.tb53.Enabled = false;
+            this.tb53.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53.Location = new System.Drawing.Point(620, 470);
+            this.tb53.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53.Multiline = true;
+            this.tb53.Name = "tb53";
+            this.tb53.Size = new System.Drawing.Size(79, 38);
+            this.tb53.TabIndex = 107;
+            this.tb53.Text = "53";
+            this.tb53.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb54
+            // 
+            this.tb54.Enabled = false;
+            this.tb54.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54.Location = new System.Drawing.Point(532, 470);
+            this.tb54.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54.Multiline = true;
+            this.tb54.Name = "tb54";
+            this.tb54.Size = new System.Drawing.Size(79, 38);
+            this.tb54.TabIndex = 106;
+            this.tb54.Text = "54";
+            this.tb54.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb55
+            // 
+            this.tb55.Enabled = false;
+            this.tb55.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55.Location = new System.Drawing.Point(444, 470);
+            this.tb55.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55.Multiline = true;
+            this.tb55.Name = "tb55";
+            this.tb55.Size = new System.Drawing.Size(79, 38);
+            this.tb55.TabIndex = 105;
+            this.tb55.Text = "55";
+            this.tb55.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb56
+            // 
+            this.tb56.Enabled = false;
+            this.tb56.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56.Location = new System.Drawing.Point(356, 470);
+            this.tb56.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56.Multiline = true;
+            this.tb56.Name = "tb56";
+            this.tb56.Size = new System.Drawing.Size(79, 38);
+            this.tb56.TabIndex = 104;
+            this.tb56.Text = "56";
+            this.tb56.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb57
+            // 
+            this.tb57.Enabled = false;
+            this.tb57.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57.Location = new System.Drawing.Point(268, 470);
+            this.tb57.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57.Multiline = true;
+            this.tb57.Name = "tb57";
+            this.tb57.Size = new System.Drawing.Size(79, 38);
+            this.tb57.TabIndex = 103;
+            this.tb57.Text = "57";
+            this.tb57.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb61c2
+            // 
+            this.tb61c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb61c2.Location = new System.Drawing.Point(1148, 602);
+            this.tb61c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb61c2.Multiline = true;
+            this.tb61c2.Name = "tb61c2";
+            this.tb61c2.Size = new System.Drawing.Size(83, 38);
+            this.tb61c2.TabIndex = 155;
+            this.tb61c2.Tag = "61.2";
+            this.tb61c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb61c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb62c2
+            // 
+            this.tb62c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb62c2.Location = new System.Drawing.Point(1060, 602);
+            this.tb62c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb62c2.Multiline = true;
+            this.tb62c2.Name = "tb62c2";
+            this.tb62c2.Size = new System.Drawing.Size(83, 38);
+            this.tb62c2.TabIndex = 154;
+            this.tb62c2.Tag = "62.2";
+            this.tb62c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb62c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb61c1
+            // 
+            this.tb61c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb61c1.Location = new System.Drawing.Point(1148, 564);
+            this.tb61c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb61c1.Multiline = true;
+            this.tb61c1.Name = "tb61c1";
+            this.tb61c1.Size = new System.Drawing.Size(83, 38);
+            this.tb61c1.TabIndex = 153;
+            this.tb61c1.Tag = "61.1";
+            this.tb61c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb61c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb62c1
+            // 
+            this.tb62c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb62c1.Location = new System.Drawing.Point(1060, 564);
+            this.tb62c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb62c1.Multiline = true;
+            this.tb62c1.Name = "tb62c1";
+            this.tb62c1.Size = new System.Drawing.Size(83, 38);
+            this.tb62c1.TabIndex = 152;
+            this.tb62c1.Tag = "62.1";
+            this.tb62c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb62c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb61l
+            // 
+            this.tb61l.BackColor = System.Drawing.Color.Salmon;
+            this.tb61l.Enabled = false;
+            this.tb61l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb61l.Location = new System.Drawing.Point(1148, 517);
+            this.tb61l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb61l.Multiline = true;
+            this.tb61l.Name = "tb61l";
+            this.tb61l.Size = new System.Drawing.Size(79, 38);
+            this.tb61l.TabIndex = 151;
+            this.tb61l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb62l
+            // 
+            this.tb62l.BackColor = System.Drawing.Color.Salmon;
+            this.tb62l.Enabled = false;
+            this.tb62l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb62l.Location = new System.Drawing.Point(1060, 517);
+            this.tb62l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb62l.Multiline = true;
+            this.tb62l.Name = "tb62l";
+            this.tb62l.Size = new System.Drawing.Size(79, 38);
+            this.tb62l.TabIndex = 150;
+            this.tb62l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb61
+            // 
+            this.tb61.Enabled = false;
+            this.tb61.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb61.Location = new System.Drawing.Point(1148, 470);
+            this.tb61.Margin = new System.Windows.Forms.Padding(4);
+            this.tb61.Multiline = true;
+            this.tb61.Name = "tb61";
+            this.tb61.Size = new System.Drawing.Size(79, 38);
+            this.tb61.TabIndex = 149;
+            this.tb61.Text = "61";
+            this.tb61.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb62
+            // 
+            this.tb62.Enabled = false;
+            this.tb62.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb62.Location = new System.Drawing.Point(1060, 470);
+            this.tb62.Margin = new System.Windows.Forms.Padding(4);
+            this.tb62.Multiline = true;
+            this.tb62.Name = "tb62";
+            this.tb62.Size = new System.Drawing.Size(79, 38);
+            this.tb62.TabIndex = 148;
+            this.tb62.Text = "62";
+            this.tb62.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb77c3
+            // 
+            this.tb77c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77c3.Location = new System.Drawing.Point(1517, 640);
+            this.tb77c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77c3.Multiline = true;
+            this.tb77c3.Name = "tb77c3";
+            this.tb77c3.Size = new System.Drawing.Size(79, 38);
+            this.tb77c3.TabIndex = 177;
+            this.tb77c3.Tag = "77.3";
+            this.tb77c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb77c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb76c3
+            // 
+            this.tb76c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76c3.Location = new System.Drawing.Point(1429, 640);
+            this.tb76c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76c3.Multiline = true;
+            this.tb76c3.Name = "tb76c3";
+            this.tb76c3.Size = new System.Drawing.Size(83, 38);
+            this.tb76c3.TabIndex = 176;
+            this.tb76c3.Tag = "76.3";
+            this.tb76c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb76c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb77c2
+            // 
+            this.tb77c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77c2.Location = new System.Drawing.Point(1517, 602);
+            this.tb77c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77c2.Multiline = true;
+            this.tb77c2.Name = "tb77c2";
+            this.tb77c2.Size = new System.Drawing.Size(79, 38);
+            this.tb77c2.TabIndex = 175;
+            this.tb77c2.Tag = "77.2";
+            this.tb77c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb77c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb76c2
+            // 
+            this.tb76c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76c2.Location = new System.Drawing.Point(1429, 602);
+            this.tb76c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76c2.Multiline = true;
+            this.tb76c2.Name = "tb76c2";
+            this.tb76c2.Size = new System.Drawing.Size(83, 38);
+            this.tb76c2.TabIndex = 174;
+            this.tb76c2.Tag = "76.2";
+            this.tb76c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb76c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb77c1
+            // 
+            this.tb77c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77c1.Location = new System.Drawing.Point(1517, 564);
+            this.tb77c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77c1.Multiline = true;
+            this.tb77c1.Name = "tb77c1";
+            this.tb77c1.Size = new System.Drawing.Size(79, 38);
+            this.tb77c1.TabIndex = 173;
+            this.tb77c1.Tag = "77.1";
+            this.tb77c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb77c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb76c1
+            // 
+            this.tb76c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76c1.Location = new System.Drawing.Point(1429, 564);
+            this.tb76c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76c1.Multiline = true;
+            this.tb76c1.Name = "tb76c1";
+            this.tb76c1.Size = new System.Drawing.Size(83, 38);
+            this.tb76c1.TabIndex = 172;
+            this.tb76c1.Tag = "76.1";
+            this.tb76c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb76c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb77l
+            // 
+            this.tb77l.BackColor = System.Drawing.Color.Salmon;
+            this.tb77l.Enabled = false;
+            this.tb77l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77l.Location = new System.Drawing.Point(1517, 517);
+            this.tb77l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77l.Multiline = true;
+            this.tb77l.Name = "tb77l";
+            this.tb77l.Size = new System.Drawing.Size(79, 38);
+            this.tb77l.TabIndex = 171;
+            this.tb77l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb76l
+            // 
+            this.tb76l.BackColor = System.Drawing.Color.Salmon;
+            this.tb76l.Enabled = false;
+            this.tb76l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76l.Location = new System.Drawing.Point(1429, 517);
+            this.tb76l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76l.Multiline = true;
+            this.tb76l.Name = "tb76l";
+            this.tb76l.Size = new System.Drawing.Size(79, 38);
+            this.tb76l.TabIndex = 170;
+            this.tb76l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb77
+            // 
+            this.tb77.Enabled = false;
+            this.tb77.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77.Location = new System.Drawing.Point(1517, 470);
+            this.tb77.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77.Multiline = true;
+            this.tb77.Name = "tb77";
+            this.tb77.Size = new System.Drawing.Size(79, 38);
+            this.tb77.TabIndex = 169;
+            this.tb77.Text = "77";
+            this.tb77.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb76
+            // 
+            this.tb76.Enabled = false;
+            this.tb76.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76.Location = new System.Drawing.Point(1429, 470);
+            this.tb76.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76.Multiline = true;
+            this.tb76.Name = "tb76";
+            this.tb76.Size = new System.Drawing.Size(79, 38);
+            this.tb76.TabIndex = 168;
+            this.tb76.Text = "76";
+            this.tb76.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb75c3
+            // 
+            this.tb75c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb75c3.Location = new System.Drawing.Point(1341, 640);
+            this.tb75c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb75c3.Multiline = true;
+            this.tb75c3.Name = "tb75c3";
+            this.tb75c3.Size = new System.Drawing.Size(83, 38);
+            this.tb75c3.TabIndex = 167;
+            this.tb75c3.Tag = "75.3";
+            this.tb75c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb75c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb74c3
+            // 
+            this.tb74c3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74c3.Location = new System.Drawing.Point(1253, 640);
+            this.tb74c3.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74c3.Multiline = true;
+            this.tb74c3.Name = "tb74c3";
+            this.tb74c3.Size = new System.Drawing.Size(83, 38);
+            this.tb74c3.TabIndex = 166;
+            this.tb74c3.Tag = "74.3";
+            this.tb74c3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb74c3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb75c2
+            // 
+            this.tb75c2.AccessibleDescription = "75.2";
+            this.tb75c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb75c2.Location = new System.Drawing.Point(1341, 602);
+            this.tb75c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb75c2.Multiline = true;
+            this.tb75c2.Name = "tb75c2";
+            this.tb75c2.Size = new System.Drawing.Size(83, 38);
+            this.tb75c2.TabIndex = 165;
+            this.tb75c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb75c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb74c2
+            // 
+            this.tb74c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74c2.Location = new System.Drawing.Point(1253, 602);
+            this.tb74c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74c2.Multiline = true;
+            this.tb74c2.Name = "tb74c2";
+            this.tb74c2.Size = new System.Drawing.Size(83, 38);
+            this.tb74c2.TabIndex = 164;
+            this.tb74c2.Tag = "74.2";
+            this.tb74c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb74c2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb75c1
+            // 
+            this.tb75c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb75c1.Location = new System.Drawing.Point(1341, 564);
+            this.tb75c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb75c1.Multiline = true;
+            this.tb75c1.Name = "tb75c1";
+            this.tb75c1.Size = new System.Drawing.Size(83, 38);
+            this.tb75c1.TabIndex = 163;
+            this.tb75c1.Tag = "75.1";
+            this.tb75c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb75c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb74c1
+            // 
+            this.tb74c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74c1.Location = new System.Drawing.Point(1253, 564);
+            this.tb74c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74c1.Multiline = true;
+            this.tb74c1.Name = "tb74c1";
+            this.tb74c1.Size = new System.Drawing.Size(83, 38);
+            this.tb74c1.TabIndex = 162;
+            this.tb74c1.Tag = "74.1";
+            this.tb74c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb74c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb75l
+            // 
+            this.tb75l.BackColor = System.Drawing.Color.Salmon;
+            this.tb75l.Enabled = false;
+            this.tb75l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb75l.Location = new System.Drawing.Point(1341, 517);
+            this.tb75l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb75l.Multiline = true;
+            this.tb75l.Name = "tb75l";
+            this.tb75l.Size = new System.Drawing.Size(79, 38);
+            this.tb75l.TabIndex = 161;
+            this.tb75l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb74l
+            // 
+            this.tb74l.BackColor = System.Drawing.Color.Salmon;
+            this.tb74l.Enabled = false;
+            this.tb74l.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74l.Location = new System.Drawing.Point(1253, 517);
+            this.tb74l.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74l.Multiline = true;
+            this.tb74l.Name = "tb74l";
+            this.tb74l.Size = new System.Drawing.Size(79, 38);
+            this.tb74l.TabIndex = 160;
+            this.tb74l.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb75
+            // 
+            this.tb75.Enabled = false;
+            this.tb75.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb75.Location = new System.Drawing.Point(1341, 470);
+            this.tb75.Margin = new System.Windows.Forms.Padding(4);
+            this.tb75.Multiline = true;
+            this.tb75.Name = "tb75";
+            this.tb75.Size = new System.Drawing.Size(79, 38);
+            this.tb75.TabIndex = 159;
+            this.tb75.Text = "75";
+            this.tb75.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb74
+            // 
+            this.tb74.Enabled = false;
+            this.tb74.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74.Location = new System.Drawing.Point(1253, 470);
+            this.tb74.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74.Multiline = true;
+            this.tb74.Name = "tb74";
+            this.tb74.Size = new System.Drawing.Size(79, 38);
+            this.tb74.TabIndex = 158;
+            this.tb74.Text = "74";
+            this.tb74.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb16c1
+            // 
+            this.tb16c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb16c1.Location = new System.Drawing.Point(1703, 623);
+            this.tb16c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb16c1.Multiline = true;
+            this.tb16c1.Name = "tb16c1";
+            this.tb16c1.Size = new System.Drawing.Size(79, 38);
+            this.tb16c1.TabIndex = 187;
+            this.tb16c1.Tag = "16.1";
+            this.tb16c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb16c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb16
+            // 
+            this.tb16.Enabled = false;
+            this.tb16.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb16.Location = new System.Drawing.Point(1615, 623);
+            this.tb16.Margin = new System.Windows.Forms.Padding(4);
+            this.tb16.Multiline = true;
+            this.tb16.Name = "tb16";
+            this.tb16.Size = new System.Drawing.Size(79, 38);
+            this.tb16.TabIndex = 186;
+            this.tb16.Text = "16";
+            this.tb16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb15c1
+            // 
+            this.tb15c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb15c1.Location = new System.Drawing.Point(1703, 585);
+            this.tb15c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb15c1.Multiline = true;
+            this.tb15c1.Name = "tb15c1";
+            this.tb15c1.Size = new System.Drawing.Size(79, 38);
+            this.tb15c1.TabIndex = 185;
+            this.tb15c1.Tag = "15.1";
+            this.tb15c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb15c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb15
+            // 
+            this.tb15.Enabled = false;
+            this.tb15.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb15.Location = new System.Drawing.Point(1615, 585);
+            this.tb15.Margin = new System.Windows.Forms.Padding(4);
+            this.tb15.Multiline = true;
+            this.tb15.Name = "tb15";
+            this.tb15.Size = new System.Drawing.Size(79, 38);
+            this.tb15.TabIndex = 184;
+            this.tb15.Text = "15";
+            this.tb15.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb14c1
+            // 
+            this.tb14c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb14c1.Location = new System.Drawing.Point(1703, 546);
+            this.tb14c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb14c1.Multiline = true;
+            this.tb14c1.Name = "tb14c1";
+            this.tb14c1.Size = new System.Drawing.Size(79, 38);
+            this.tb14c1.TabIndex = 183;
+            this.tb14c1.Tag = "14.1";
+            this.tb14c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb14c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb14
+            // 
+            this.tb14.Enabled = false;
+            this.tb14.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb14.Location = new System.Drawing.Point(1615, 546);
+            this.tb14.Margin = new System.Windows.Forms.Padding(4);
+            this.tb14.Multiline = true;
+            this.tb14.Name = "tb14";
+            this.tb14.Size = new System.Drawing.Size(79, 38);
+            this.tb14.TabIndex = 182;
+            this.tb14.Text = "14";
+            this.tb14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb13c1
+            // 
+            this.tb13c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb13c1.Location = new System.Drawing.Point(1703, 508);
+            this.tb13c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb13c1.Multiline = true;
+            this.tb13c1.Name = "tb13c1";
+            this.tb13c1.Size = new System.Drawing.Size(79, 38);
+            this.tb13c1.TabIndex = 181;
+            this.tb13c1.Tag = "13.1";
+            this.tb13c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb13c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb13
+            // 
+            this.tb13.Enabled = false;
+            this.tb13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb13.Location = new System.Drawing.Point(1615, 508);
+            this.tb13.Margin = new System.Windows.Forms.Padding(4);
+            this.tb13.Multiline = true;
+            this.tb13.Name = "tb13";
+            this.tb13.Size = new System.Drawing.Size(79, 38);
+            this.tb13.TabIndex = 180;
+            this.tb13.Text = "13";
+            this.tb13.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb12c1
+            // 
+            this.tb12c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb12c1.Location = new System.Drawing.Point(1703, 470);
+            this.tb12c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb12c1.Multiline = true;
+            this.tb12c1.Name = "tb12c1";
+            this.tb12c1.Size = new System.Drawing.Size(79, 38);
+            this.tb12c1.TabIndex = 179;
+            this.tb12c1.Tag = "12.1";
+            this.tb12c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb12c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb12
+            // 
+            this.tb12.Enabled = false;
+            this.tb12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb12.Location = new System.Drawing.Point(1615, 470);
+            this.tb12.Margin = new System.Windows.Forms.Padding(4);
+            this.tb12.Multiline = true;
+            this.tb12.Name = "tb12";
+            this.tb12.Size = new System.Drawing.Size(79, 38);
+            this.tb12.TabIndex = 178;
+            this.tb12.Text = "12";
+            this.tb12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb20c1
+            // 
+            this.tb20c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb20c1.Location = new System.Drawing.Point(1703, 775);
+            this.tb20c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb20c1.Multiline = true;
+            this.tb20c1.Name = "tb20c1";
+            this.tb20c1.Size = new System.Drawing.Size(79, 38);
+            this.tb20c1.TabIndex = 195;
+            this.tb20c1.Tag = "20.1";
+            this.tb20c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb20c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb20
+            // 
+            this.tb20.Enabled = false;
+            this.tb20.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb20.Location = new System.Drawing.Point(1615, 775);
+            this.tb20.Margin = new System.Windows.Forms.Padding(4);
+            this.tb20.Multiline = true;
+            this.tb20.Name = "tb20";
+            this.tb20.Size = new System.Drawing.Size(79, 38);
+            this.tb20.TabIndex = 194;
+            this.tb20.Text = "20";
+            this.tb20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb19c1
+            // 
+            this.tb19c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb19c1.Location = new System.Drawing.Point(1703, 737);
+            this.tb19c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb19c1.Multiline = true;
+            this.tb19c1.Name = "tb19c1";
+            this.tb19c1.Size = new System.Drawing.Size(79, 38);
+            this.tb19c1.TabIndex = 193;
+            this.tb19c1.Tag = "19.1";
+            this.tb19c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb19c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb19
+            // 
+            this.tb19.Enabled = false;
+            this.tb19.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb19.Location = new System.Drawing.Point(1615, 737);
+            this.tb19.Margin = new System.Windows.Forms.Padding(4);
+            this.tb19.Multiline = true;
+            this.tb19.Name = "tb19";
+            this.tb19.Size = new System.Drawing.Size(79, 38);
+            this.tb19.TabIndex = 192;
+            this.tb19.Text = "19";
+            this.tb19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb18c1
+            // 
+            this.tb18c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb18c1.Location = new System.Drawing.Point(1703, 699);
+            this.tb18c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb18c1.Multiline = true;
+            this.tb18c1.Name = "tb18c1";
+            this.tb18c1.Size = new System.Drawing.Size(79, 38);
+            this.tb18c1.TabIndex = 191;
+            this.tb18c1.Tag = "18.1";
+            this.tb18c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb18c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb18
+            // 
+            this.tb18.Enabled = false;
+            this.tb18.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb18.Location = new System.Drawing.Point(1615, 699);
+            this.tb18.Margin = new System.Windows.Forms.Padding(4);
+            this.tb18.Multiline = true;
+            this.tb18.Name = "tb18";
+            this.tb18.Size = new System.Drawing.Size(79, 38);
+            this.tb18.TabIndex = 190;
+            this.tb18.Text = "18";
+            this.tb18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb17c1
+            // 
+            this.tb17c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb17c1.Location = new System.Drawing.Point(1703, 661);
+            this.tb17c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb17c1.Multiline = true;
+            this.tb17c1.Name = "tb17c1";
+            this.tb17c1.Size = new System.Drawing.Size(79, 38);
+            this.tb17c1.TabIndex = 189;
+            this.tb17c1.Tag = "17.1";
+            this.tb17c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb17c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb17
+            // 
+            this.tb17.Enabled = false;
+            this.tb17.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb17.Location = new System.Drawing.Point(1615, 661);
+            this.tb17.Margin = new System.Windows.Forms.Padding(4);
+            this.tb17.Multiline = true;
+            this.tb17.Name = "tb17";
+            this.tb17.Size = new System.Drawing.Size(79, 38);
+            this.tb17.TabIndex = 188;
+            this.tb17.Text = "17";
+            this.tb17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb21c1
+            // 
+            this.tb21c1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb21c1.Location = new System.Drawing.Point(1703, 814);
+            this.tb21c1.Margin = new System.Windows.Forms.Padding(4);
+            this.tb21c1.Multiline = true;
+            this.tb21c1.Name = "tb21c1";
+            this.tb21c1.Size = new System.Drawing.Size(79, 38);
+            this.tb21c1.TabIndex = 197;
+            this.tb21c1.Tag = "21.1";
+            this.tb21c1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb21c1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb21
+            // 
+            this.tb21.Enabled = false;
+            this.tb21.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb21.Location = new System.Drawing.Point(1615, 814);
+            this.tb21.Margin = new System.Windows.Forms.Padding(4);
+            this.tb21.Multiline = true;
+            this.tb21.Name = "tb21";
+            this.tb21.Size = new System.Drawing.Size(79, 38);
+            this.tb21.TabIndex = 196;
+            this.tb21.Text = "21";
+            this.tb21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tb52c6
+            // 
+            this.tb52c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c6.Location = new System.Drawing.Point(708, 754);
+            this.tb52c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c6.Multiline = true;
+            this.tb52c6.Name = "tb52c6";
+            this.tb52c6.Size = new System.Drawing.Size(83, 38);
+            this.tb52c6.TabIndex = 217;
+            this.tb52c6.Tag = "52.6";
+            this.tb52c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c6
+            // 
+            this.tb53c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c6.Location = new System.Drawing.Point(620, 754);
+            this.tb53c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c6.Multiline = true;
+            this.tb53c6.Name = "tb53c6";
+            this.tb53c6.Size = new System.Drawing.Size(83, 38);
+            this.tb53c6.TabIndex = 216;
+            this.tb53c6.Tag = "53.6";
+            this.tb53c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c6
+            // 
+            this.tb54c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c6.Location = new System.Drawing.Point(532, 754);
+            this.tb54c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c6.Multiline = true;
+            this.tb54c6.Name = "tb54c6";
+            this.tb54c6.Size = new System.Drawing.Size(83, 38);
+            this.tb54c6.TabIndex = 215;
+            this.tb54c6.Tag = "54.6";
+            this.tb54c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c6
+            // 
+            this.tb55c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c6.Location = new System.Drawing.Point(444, 754);
+            this.tb55c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c6.Multiline = true;
+            this.tb55c6.Name = "tb55c6";
+            this.tb55c6.Size = new System.Drawing.Size(83, 38);
+            this.tb55c6.TabIndex = 214;
+            this.tb55c6.Tag = "55.6";
+            this.tb55c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c6
+            // 
+            this.tb56c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c6.Location = new System.Drawing.Point(356, 754);
+            this.tb56c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c6.Multiline = true;
+            this.tb56c6.Name = "tb56c6";
+            this.tb56c6.Size = new System.Drawing.Size(83, 38);
+            this.tb56c6.TabIndex = 213;
+            this.tb56c6.Tag = "56.6";
+            this.tb56c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c6
+            // 
+            this.tb57c6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c6.Location = new System.Drawing.Point(268, 754);
+            this.tb57c6.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c6.Multiline = true;
+            this.tb57c6.Name = "tb57c6";
+            this.tb57c6.Size = new System.Drawing.Size(83, 38);
+            this.tb57c6.TabIndex = 212;
+            this.tb57c6.Tag = "57.6";
+            this.tb57c6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb51c5
+            // 
+            this.tb51c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51c5.Location = new System.Drawing.Point(796, 716);
+            this.tb51c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51c5.Multiline = true;
+            this.tb51c5.Name = "tb51c5";
+            this.tb51c5.Size = new System.Drawing.Size(83, 38);
+            this.tb51c5.TabIndex = 211;
+            this.tb51c5.Tag = "51.5";
+            this.tb51c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb51c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb52c5
+            // 
+            this.tb52c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c5.Location = new System.Drawing.Point(708, 716);
+            this.tb52c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c5.Multiline = true;
+            this.tb52c5.Name = "tb52c5";
+            this.tb52c5.Size = new System.Drawing.Size(83, 38);
+            this.tb52c5.TabIndex = 210;
+            this.tb52c5.Tag = "52.5";
+            this.tb52c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c5
+            // 
+            this.tb53c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c5.Location = new System.Drawing.Point(620, 716);
+            this.tb53c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c5.Multiline = true;
+            this.tb53c5.Name = "tb53c5";
+            this.tb53c5.Size = new System.Drawing.Size(83, 38);
+            this.tb53c5.TabIndex = 209;
+            this.tb53c5.Tag = "53.5";
+            this.tb53c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c5
+            // 
+            this.tb54c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c5.Location = new System.Drawing.Point(532, 716);
+            this.tb54c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c5.Multiline = true;
+            this.tb54c5.Name = "tb54c5";
+            this.tb54c5.Size = new System.Drawing.Size(83, 38);
+            this.tb54c5.TabIndex = 208;
+            this.tb54c5.Tag = "54.5";
+            this.tb54c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c5
+            // 
+            this.tb55c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c5.Location = new System.Drawing.Point(444, 716);
+            this.tb55c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c5.Multiline = true;
+            this.tb55c5.Name = "tb55c5";
+            this.tb55c5.Size = new System.Drawing.Size(83, 38);
+            this.tb55c5.TabIndex = 207;
+            this.tb55c5.Tag = "55.5";
+            this.tb55c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c5
+            // 
+            this.tb56c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c5.Location = new System.Drawing.Point(356, 716);
+            this.tb56c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c5.Multiline = true;
+            this.tb56c5.Name = "tb56c5";
+            this.tb56c5.Size = new System.Drawing.Size(83, 38);
+            this.tb56c5.TabIndex = 206;
+            this.tb56c5.Tag = "56.5";
+            this.tb56c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c5
+            // 
+            this.tb57c5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c5.Location = new System.Drawing.Point(268, 716);
+            this.tb57c5.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c5.Multiline = true;
+            this.tb57c5.Name = "tb57c5";
+            this.tb57c5.Size = new System.Drawing.Size(83, 38);
+            this.tb57c5.TabIndex = 205;
+            this.tb57c5.Tag = "57.5";
+            this.tb57c5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb51c4
+            // 
+            this.tb51c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb51c4.Location = new System.Drawing.Point(796, 678);
+            this.tb51c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb51c4.Multiline = true;
+            this.tb51c4.Name = "tb51c4";
+            this.tb51c4.Size = new System.Drawing.Size(83, 38);
+            this.tb51c4.TabIndex = 204;
+            this.tb51c4.Tag = "51.4";
+            this.tb51c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb51c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb52c4
+            // 
+            this.tb52c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb52c4.Location = new System.Drawing.Point(708, 678);
+            this.tb52c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb52c4.Multiline = true;
+            this.tb52c4.Name = "tb52c4";
+            this.tb52c4.Size = new System.Drawing.Size(83, 38);
+            this.tb52c4.TabIndex = 203;
+            this.tb52c4.Tag = "52.4";
+            this.tb52c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb52c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb53c4
+            // 
+            this.tb53c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb53c4.Location = new System.Drawing.Point(620, 678);
+            this.tb53c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb53c4.Multiline = true;
+            this.tb53c4.Name = "tb53c4";
+            this.tb53c4.Size = new System.Drawing.Size(83, 38);
+            this.tb53c4.TabIndex = 202;
+            this.tb53c4.Tag = "53.4";
+            this.tb53c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb53c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c4
+            // 
+            this.tb54c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c4.Location = new System.Drawing.Point(532, 678);
+            this.tb54c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c4.Multiline = true;
+            this.tb54c4.Name = "tb54c4";
+            this.tb54c4.Size = new System.Drawing.Size(83, 38);
+            this.tb54c4.TabIndex = 201;
+            this.tb54c4.Tag = "54.4";
+            this.tb54c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c4
+            // 
+            this.tb55c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c4.Location = new System.Drawing.Point(444, 678);
+            this.tb55c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c4.Multiline = true;
+            this.tb55c4.Name = "tb55c4";
+            this.tb55c4.Size = new System.Drawing.Size(83, 38);
+            this.tb55c4.TabIndex = 200;
+            this.tb55c4.Tag = "55.4";
+            this.tb55c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c4
+            // 
+            this.tb56c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c4.Location = new System.Drawing.Point(356, 678);
+            this.tb56c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c4.Multiline = true;
+            this.tb56c4.Name = "tb56c4";
+            this.tb56c4.Size = new System.Drawing.Size(83, 38);
+            this.tb56c4.TabIndex = 199;
+            this.tb56c4.Tag = "56.4";
+            this.tb56c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c4
+            // 
+            this.tb57c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c4.Location = new System.Drawing.Point(268, 678);
+            this.tb57c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c4.Multiline = true;
+            this.tb57c4.Name = "tb57c4";
+            this.tb57c4.Size = new System.Drawing.Size(83, 38);
+            this.tb57c4.TabIndex = 198;
+            this.tb57c4.Tag = "57.4";
+            this.tb57c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb64c4
+            // 
+            this.tb64c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb64c4.Location = new System.Drawing.Point(884, 678);
+            this.tb64c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb64c4.Multiline = true;
+            this.tb64c4.Name = "tb64c4";
+            this.tb64c4.Size = new System.Drawing.Size(83, 38);
+            this.tb64c4.TabIndex = 219;
+            this.tb64c4.Tag = "64.4";
+            this.tb64c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb64c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb63c4
+            // 
+            this.tb63c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb63c4.Location = new System.Drawing.Point(972, 678);
+            this.tb63c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb63c4.Multiline = true;
+            this.tb63c4.Name = "tb63c4";
+            this.tb63c4.Size = new System.Drawing.Size(83, 38);
+            this.tb63c4.TabIndex = 220;
+            this.tb63c4.Tag = "63.4";
+            this.tb63c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb63c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb54c7
+            // 
+            this.tb54c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb54c7.Location = new System.Drawing.Point(532, 793);
+            this.tb54c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb54c7.Multiline = true;
+            this.tb54c7.Name = "tb54c7";
+            this.tb54c7.Size = new System.Drawing.Size(83, 38);
+            this.tb54c7.TabIndex = 225;
+            this.tb54c7.Tag = "54.7";
+            this.tb54c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb54c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb55c7
+            // 
+            this.tb55c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb55c7.Location = new System.Drawing.Point(444, 793);
+            this.tb55c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb55c7.Multiline = true;
+            this.tb55c7.Name = "tb55c7";
+            this.tb55c7.Size = new System.Drawing.Size(83, 38);
+            this.tb55c7.TabIndex = 224;
+            this.tb55c7.Tag = "55.7";
+            this.tb55c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb55c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb56c7
+            // 
+            this.tb56c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb56c7.Location = new System.Drawing.Point(356, 793);
+            this.tb56c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb56c7.Multiline = true;
+            this.tb56c7.Name = "tb56c7";
+            this.tb56c7.Size = new System.Drawing.Size(83, 38);
+            this.tb56c7.TabIndex = 223;
+            this.tb56c7.Tag = "56.7";
+            this.tb56c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb56c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c7
+            // 
+            this.tb57c7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c7.Location = new System.Drawing.Point(268, 793);
+            this.tb57c7.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c7.Multiline = true;
+            this.tb57c7.Name = "tb57c7";
+            this.tb57c7.Size = new System.Drawing.Size(83, 38);
+            this.tb57c7.TabIndex = 222;
+            this.tb57c7.Tag = "57.7";
+            this.tb57c7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb57c8
+            // 
+            this.tb57c8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb57c8.Location = new System.Drawing.Point(268, 831);
+            this.tb57c8.Margin = new System.Windows.Forms.Padding(4);
+            this.tb57c8.Multiline = true;
+            this.tb57c8.Name = "tb57c8";
+            this.tb57c8.Size = new System.Drawing.Size(83, 38);
+            this.tb57c8.TabIndex = 228;
+            this.tb57c8.Tag = "57.8";
+            this.tb57c8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb57c8.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb77c4
+            // 
+            this.tb77c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb77c4.Location = new System.Drawing.Point(1517, 679);
+            this.tb77c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb77c4.Multiline = true;
+            this.tb77c4.Name = "tb77c4";
+            this.tb77c4.Size = new System.Drawing.Size(79, 38);
+            this.tb77c4.TabIndex = 233;
+            this.tb77c4.Tag = "77.4";
+            this.tb77c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb77c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb76c4
+            // 
+            this.tb76c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb76c4.Location = new System.Drawing.Point(1429, 679);
+            this.tb76c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb76c4.Multiline = true;
+            this.tb76c4.Name = "tb76c4";
+            this.tb76c4.Size = new System.Drawing.Size(83, 38);
+            this.tb76c4.TabIndex = 232;
+            this.tb76c4.Tag = "76.4";
+            this.tb76c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb76c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // tb74c4
+            // 
+            this.tb74c4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb74c4.Location = new System.Drawing.Point(1253, 679);
+            this.tb74c4.Margin = new System.Windows.Forms.Padding(4);
+            this.tb74c4.Multiline = true;
+            this.tb74c4.Name = "tb74c4";
+            this.tb74c4.Size = new System.Drawing.Size(83, 38);
+            this.tb74c4.TabIndex = 231;
+            this.tb74c4.Tag = "74.4";
+            this.tb74c4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.tb74c4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.tb_MouseDown);
+            // 
+            // btnInvoerTramnummer
+            // 
+            this.btnInvoerTramnummer.Location = new System.Drawing.Point(16, 89);
+            this.btnInvoerTramnummer.Margin = new System.Windows.Forms.Padding(4);
+            this.btnInvoerTramnummer.Name = "btnInvoerTramnummer";
+            this.btnInvoerTramnummer.Size = new System.Drawing.Size(152, 28);
+            this.btnInvoerTramnummer.TabIndex = 234;
+            this.btnInvoerTramnummer.Text = "Invoer Tramnummer";
+            this.btnInvoerTramnummer.UseVisualStyleBackColor = true;
+            this.btnInvoerTramnummer.Click += new System.EventHandler(this.btnInvoerTramnummer_Click);
+            // 
+            // btnSimulatie
+            // 
+            this.btnSimulatie.Location = new System.Drawing.Point(16, 126);
+            this.btnSimulatie.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSimulatie.Name = "btnSimulatie";
+            this.btnSimulatie.Size = new System.Drawing.Size(152, 28);
+            this.btnSimulatie.TabIndex = 235;
+            this.btnSimulatie.Text = "Testdata simulatie";
+            this.btnSimulatie.UseVisualStyleBackColor = true;
+            this.btnSimulatie.Click += new System.EventHandler(this.btnSimulatie_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(16, 161);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(152, 28);
+            this.button3.TabIndex = 236;
+            this.button3.Text = "Reset Data";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.label2);
+            this.panel1.Controls.Add(this.label1);
+            this.panel1.Controls.Add(this.tbSpoor);
+            this.panel1.Controls.Add(this.tbTram);
+            this.panel1.Location = new System.Drawing.Point(15, 197);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(219, 222);
+            this.panel1.TabIndex = 237;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(75, 119);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(65, 25);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Spoor";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(75, 28);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(58, 25);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Tram";
+            // 
+            // tbSpoor
+            // 
+            this.tbSpoor.Location = new System.Drawing.Point(44, 146);
+            this.tbSpoor.Margin = new System.Windows.Forms.Padding(4);
+            this.tbSpoor.Name = "tbSpoor";
+            this.tbSpoor.Size = new System.Drawing.Size(132, 22);
+            this.tbSpoor.TabIndex = 1;
+            // 
+            // tbTram
+            // 
+            this.tbTram.Location = new System.Drawing.Point(44, 57);
+            this.tbTram.Margin = new System.Windows.Forms.Padding(4);
+            this.tbTram.Name = "tbTram";
+            this.tbTram.Size = new System.Drawing.Size(132, 22);
+            this.tbTram.TabIndex = 0;
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel4.Controls.Add(this.lbReserveringen);
+            this.panel4.Controls.Add(this.label8);
+            this.panel4.Location = new System.Drawing.Point(16, 443);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(219, 386);
+            this.panel4.TabIndex = 239;
+            // 
+            // lbReserveringen
+            // 
+            this.lbReserveringen.FormattingEnabled = true;
+            this.lbReserveringen.ItemHeight = 16;
+            this.lbReserveringen.Location = new System.Drawing.Point(27, 66);
+            this.lbReserveringen.Margin = new System.Windows.Forms.Padding(4);
+            this.lbReserveringen.Name = "lbReserveringen";
+            this.lbReserveringen.Size = new System.Drawing.Size(159, 292);
+            this.lbReserveringen.TabIndex = 3;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(27, 38);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(138, 25);
+            this.label8.TabIndex = 2;
+            this.label8.Text = "Reserveringen";
+            // 
+            // btnTerug
+            // 
+            this.btnTerug.Location = new System.Drawing.Point(16, 25);
+            this.btnTerug.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTerug.Name = "btnTerug";
+            this.btnTerug.Size = new System.Drawing.Size(152, 28);
+            this.btnTerug.TabIndex = 1;
+            this.btnTerug.Text = "Terug";
+            this.btnTerug.UseVisualStyleBackColor = true;
+            this.btnTerug.Click += new System.EventHandler(this.btnTerug_Click);
+            // 
+            // timerSimulatie
+            // 
+            this.timerSimulatie.Interval = 1;
+            this.timerSimulatie.Tick += new System.EventHandler(this.timerSimulatie_Tick);
+            // 
+            // tb38c2
+            // 
+            this.tb38c2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tb38c2.Location = new System.Drawing.Point(268, 148);
+            this.tb38c2.Margin = new System.Windows.Forms.Padding(4);
+            this.tb38c2.Multiline = true;
+            this.tb38c2.Name = "tb38c2";
+            this.tb38c2.Size = new System.Drawing.Size(83, 38);
+            this.tb38c2.TabIndex = 240;
+            this.tb38c2.Tag = "37.2";
+            this.tb38c2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // lblTest
+            // 
+            this.lblTest.Location = new System.Drawing.Point(288, 325);
+            this.lblTest.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblTest.Name = "lblTest";
+            this.lblTest.Size = new System.Drawing.Size(133, 28);
+            this.lblTest.TabIndex = 1;
+            this.lblTest.Text = "test";
+            // 
+            // cmsTbTram
+            // 
+            this.cmsTbTram.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.tsmiVerwijder,
+            this.tsmiSchoonmaak});
+            this.cmsTbTram.Name = "cmsTbTram";
+            this.cmsTbTram.Size = new System.Drawing.Size(142, 52);
+            // 
+            // tsmiVerwijder
+            // 
+            this.tsmiVerwijder.Name = "tsmiVerwijder";
+            this.tsmiVerwijder.Size = new System.Drawing.Size(141, 24);
+            this.tsmiVerwijder.Text = "Verwijder";
+            this.tsmiVerwijder.Click += new System.EventHandler(this.tsmiVerwijder_Click);
+            // 
+            // tsmiSchoonmaak
+            // 
+            this.tsmiSchoonmaak.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.schoonmaakToolStripMenuItem,
+            this.tsmiDefect});
+            this.tsmiSchoonmaak.Name = "tsmiSchoonmaak";
+            this.tsmiSchoonmaak.Size = new System.Drawing.Size(141, 24);
+            this.tsmiSchoonmaak.Text = "Status";
+            this.tsmiSchoonmaak.Click += new System.EventHandler(this.tsmiSchoonmaak_Click);
+            // 
+            // schoonmaakToolStripMenuItem
+            // 
+            this.schoonmaakToolStripMenuItem.Name = "schoonmaakToolStripMenuItem";
+            this.schoonmaakToolStripMenuItem.Size = new System.Drawing.Size(163, 24);
+            this.schoonmaakToolStripMenuItem.Text = "Schoonmaak";
+            // 
+            // tsmiDefect
+            // 
+            this.tsmiDefect.Name = "tsmiDefect";
+            this.tsmiDefect.Size = new System.Drawing.Size(163, 24);
+            this.tsmiDefect.Text = "Defect";
+            this.tsmiDefect.Click += new System.EventHandler(this.tsmiDefect_Click);
+            // 
+            // WagenparkBeheer
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
+            this.ClientSize = new System.Drawing.Size(1606, 1037);
+            this.Controls.Add(this.lblTest);
+            this.Controls.Add(this.tb38c2);
+            this.Controls.Add(this.btnTerug);
+            this.Controls.Add(this.panel4);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.btnSimulatie);
+            this.Controls.Add(this.btnInvoerTramnummer);
+            this.Controls.Add(this.tb77c4);
+            this.Controls.Add(this.tb76c4);
+            this.Controls.Add(this.tb74c4);
+            this.Controls.Add(this.tb57c8);
+            this.Controls.Add(this.tb54c7);
+            this.Controls.Add(this.tb55c7);
+            this.Controls.Add(this.tb56c7);
+            this.Controls.Add(this.tb57c7);
+            this.Controls.Add(this.tb63c4);
+            this.Controls.Add(this.tb64c4);
+            this.Controls.Add(this.tb52c6);
+            this.Controls.Add(this.tb53c6);
+            this.Controls.Add(this.tb54c6);
+            this.Controls.Add(this.tb55c6);
+            this.Controls.Add(this.tb56c6);
+            this.Controls.Add(this.tb57c6);
+            this.Controls.Add(this.tb51c5);
+            this.Controls.Add(this.tb52c5);
+            this.Controls.Add(this.tb53c5);
+            this.Controls.Add(this.tb54c5);
+            this.Controls.Add(this.tb55c5);
+            this.Controls.Add(this.tb56c5);
+            this.Controls.Add(this.tb57c5);
+            this.Controls.Add(this.tb51c4);
+            this.Controls.Add(this.tb52c4);
+            this.Controls.Add(this.tb53c4);
+            this.Controls.Add(this.tb54c4);
+            this.Controls.Add(this.tb55c4);
+            this.Controls.Add(this.tb56c4);
+            this.Controls.Add(this.tb57c4);
+            this.Controls.Add(this.tb21c1);
+            this.Controls.Add(this.tb21);
+            this.Controls.Add(this.tb20c1);
+            this.Controls.Add(this.tb20);
+            this.Controls.Add(this.tb19c1);
+            this.Controls.Add(this.tb19);
+            this.Controls.Add(this.tb18c1);
+            this.Controls.Add(this.tb18);
+            this.Controls.Add(this.tb17c1);
+            this.Controls.Add(this.tb17);
+            this.Controls.Add(this.tb16c1);
+            this.Controls.Add(this.tb16);
+            this.Controls.Add(this.tb15c1);
+            this.Controls.Add(this.tb15);
+            this.Controls.Add(this.tb14c1);
+            this.Controls.Add(this.tb14);
+            this.Controls.Add(this.tb13c1);
+            this.Controls.Add(this.tb13);
+            this.Controls.Add(this.tb12c1);
+            this.Controls.Add(this.tb12);
+            this.Controls.Add(this.tb77c3);
+            this.Controls.Add(this.tb76c3);
+            this.Controls.Add(this.tb77c2);
+            this.Controls.Add(this.tb76c2);
+            this.Controls.Add(this.tb77c1);
+            this.Controls.Add(this.tb76c1);
+            this.Controls.Add(this.tb77l);
+            this.Controls.Add(this.tb76l);
+            this.Controls.Add(this.tb77);
+            this.Controls.Add(this.tb76);
+            this.Controls.Add(this.tb75c3);
+            this.Controls.Add(this.tb74c3);
+            this.Controls.Add(this.tb75c2);
+            this.Controls.Add(this.tb74c2);
+            this.Controls.Add(this.tb75c1);
+            this.Controls.Add(this.tb74c1);
+            this.Controls.Add(this.tb75l);
+            this.Controls.Add(this.tb74l);
+            this.Controls.Add(this.tb75);
+            this.Controls.Add(this.tb74);
+            this.Controls.Add(this.tb61c2);
+            this.Controls.Add(this.tb62c2);
+            this.Controls.Add(this.tb61c1);
+            this.Controls.Add(this.tb62c1);
+            this.Controls.Add(this.tb61l);
+            this.Controls.Add(this.tb62l);
+            this.Controls.Add(this.tb61);
+            this.Controls.Add(this.tb62);
+            this.Controls.Add(this.tb63c3);
+            this.Controls.Add(this.tb64c3);
+            this.Controls.Add(this.tb51c3);
+            this.Controls.Add(this.tb52c3);
+            this.Controls.Add(this.tb53c3);
+            this.Controls.Add(this.tb54c3);
+            this.Controls.Add(this.tb55c3);
+            this.Controls.Add(this.tb56c3);
+            this.Controls.Add(this.tb57c3);
+            this.Controls.Add(this.tb63c2);
+            this.Controls.Add(this.tb64c2);
+            this.Controls.Add(this.tb51c2);
+            this.Controls.Add(this.tb52c2);
+            this.Controls.Add(this.tb53c2);
+            this.Controls.Add(this.tb54c2);
+            this.Controls.Add(this.tb55c2);
+            this.Controls.Add(this.tb56c2);
+            this.Controls.Add(this.tb57c2);
+            this.Controls.Add(this.tb63c1);
+            this.Controls.Add(this.tb64c1);
+            this.Controls.Add(this.tb51c1);
+            this.Controls.Add(this.tb52c1);
+            this.Controls.Add(this.tb53c1);
+            this.Controls.Add(this.tb54c1);
+            this.Controls.Add(this.tb55c1);
+            this.Controls.Add(this.tb56c1);
+            this.Controls.Add(this.tb57c1);
+            this.Controls.Add(this.tb63l);
+            this.Controls.Add(this.tb64l);
+            this.Controls.Add(this.tb51l);
+            this.Controls.Add(this.tb52l);
+            this.Controls.Add(this.tb53l);
+            this.Controls.Add(this.tb54l);
+            this.Controls.Add(this.tb55l);
+            this.Controls.Add(this.tb56l);
+            this.Controls.Add(this.tb57l);
+            this.Controls.Add(this.tb63);
+            this.Controls.Add(this.tb64);
+            this.Controls.Add(this.tb51);
+            this.Controls.Add(this.tb52);
+            this.Controls.Add(this.tb53);
+            this.Controls.Add(this.tb54);
+            this.Controls.Add(this.tb55);
+            this.Controls.Add(this.tb56);
+            this.Controls.Add(this.tb57);
+            this.Controls.Add(this.tb40c7);
+            this.Controls.Add(this.tb40c6);
+            this.Controls.Add(this.tb40c5);
+            this.Controls.Add(this.tb45c9);
+            this.Controls.Add(this.tb45c8);
+            this.Controls.Add(this.tb45c7);
+            this.Controls.Add(this.tb45c6);
+            this.Controls.Add(this.tb45c5);
+            this.Controls.Add(this.tb58c5);
+            this.Controls.Add(this.tb45c4);
+            this.Controls.Add(this.tb58c4);
+            this.Controls.Add(this.tb40c4);
+            this.Controls.Add(this.tb41c4);
+            this.Controls.Add(this.tb42c4);
+            this.Controls.Add(this.tb43c4);
+            this.Controls.Add(this.tb44c4);
+            this.Controls.Add(this.tb32c4);
+            this.Controls.Add(this.tb33c4);
+            this.Controls.Add(this.tb34c4);
+            this.Controls.Add(this.tb35c4);
+            this.Controls.Add(this.tb36c4);
+            this.Controls.Add(this.tb37c4);
+            this.Controls.Add(this.tb38c4);
+            this.Controls.Add(this.tb45c3);
+            this.Controls.Add(this.tb58c3);
+            this.Controls.Add(this.tb40c3);
+            this.Controls.Add(this.tb41c3);
+            this.Controls.Add(this.tb42c3);
+            this.Controls.Add(this.tb43c3);
+            this.Controls.Add(this.tb44c3);
+            this.Controls.Add(this.tb30c3);
+            this.Controls.Add(this.tb31c3);
+            this.Controls.Add(this.tb32c3);
+            this.Controls.Add(this.tb33c3);
+            this.Controls.Add(this.tb34c3);
+            this.Controls.Add(this.tb35c3);
+            this.Controls.Add(this.tb36c3);
+            this.Controls.Add(this.tb37c3);
+            this.Controls.Add(this.tb38c3);
+            this.Controls.Add(this.tb45c2);
+            this.Controls.Add(this.tb58c2);
+            this.Controls.Add(this.tb40c2);
+            this.Controls.Add(this.tb41c2);
+            this.Controls.Add(this.tb42c2);
+            this.Controls.Add(this.tb43c2);
+            this.Controls.Add(this.tb44c2);
+            this.Controls.Add(this.tb30c2);
+            this.Controls.Add(this.tb31c2);
+            this.Controls.Add(this.tb32c2);
+            this.Controls.Add(this.tb33c2);
+            this.Controls.Add(this.tb34c2);
+            this.Controls.Add(this.tb35c2);
+            this.Controls.Add(this.tb36c2);
+            this.Controls.Add(this.tb37c2);
+            this.Controls.Add(this.tb45c1);
+            this.Controls.Add(this.tb58c1);
+            this.Controls.Add(this.tb40c1);
+            this.Controls.Add(this.tb41c1);
+            this.Controls.Add(this.tb42c1);
+            this.Controls.Add(this.tb43c1);
+            this.Controls.Add(this.tb44c1);
+            this.Controls.Add(this.tb30c1);
+            this.Controls.Add(this.tb31c1);
+            this.Controls.Add(this.tb32c1);
+            this.Controls.Add(this.tb33c1);
+            this.Controls.Add(this.tb34c1);
+            this.Controls.Add(this.tb35c1);
+            this.Controls.Add(this.tb36c1);
+            this.Controls.Add(this.tb37c1);
+            this.Controls.Add(this.tb38c1);
+            this.Controls.Add(this.tb45l);
+            this.Controls.Add(this.tb58l);
+            this.Controls.Add(this.tb40l);
+            this.Controls.Add(this.tb41l);
+            this.Controls.Add(this.tb42l);
+            this.Controls.Add(this.tb43l);
+            this.Controls.Add(this.tb44l);
+            this.Controls.Add(this.tb30l);
+            this.Controls.Add(this.tb31l);
+            this.Controls.Add(this.tb32l);
+            this.Controls.Add(this.tb33l);
+            this.Controls.Add(this.tb34l);
+            this.Controls.Add(this.tb35l);
+            this.Controls.Add(this.tb36l);
+            this.Controls.Add(this.tb37l);
+            this.Controls.Add(this.tb38l);
+            this.Controls.Add(this.tb45);
+            this.Controls.Add(this.tb58);
+            this.Controls.Add(this.tb40);
+            this.Controls.Add(this.tb41);
+            this.Controls.Add(this.tb42);
+            this.Controls.Add(this.tb43);
+            this.Controls.Add(this.tb44);
+            this.Controls.Add(this.tb30);
+            this.Controls.Add(this.tb31);
+            this.Controls.Add(this.tb32);
+            this.Controls.Add(this.tb33);
+            this.Controls.Add(this.tb34);
+            this.Controls.Add(this.tb35);
+            this.Controls.Add(this.tb36);
+            this.Controls.Add(this.tb37);
+            this.Controls.Add(this.tb38);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "WagenparkBeheer";
+            this.Text = "WagenparkBeheer";
+            this.Load += new System.EventHandler(this.WagenparkBeheer_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            this.cmsTbTram.ResumeLayout(false);
+            this.ResumeLayout(false);
+            this.PerformLayout();

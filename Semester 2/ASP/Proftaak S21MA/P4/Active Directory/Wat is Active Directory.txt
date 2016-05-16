@@ -1,0 +1,4 @@
+Active Directory zorgt ervoor dat de gegevens van alle netwerkobjecten ergens op het netwerk worden opgeslagen. 
+Meestal worden deze gegevens opgeslagen op een server, waarop Active Directory is geinstalleerd. Deze server wordt dan ook wel een domain controller genoemd.
+Als de gegevens niet worden opgeslagen kan er niet worden geverifeerd of geautoriseerd worden en werkt de netwerk beveiliging niet. Deze gegevens worden bewaard in een bestand.
+Dit bestand word de NTDS.DIT genoemd, ookwel bekend als Active Directory. Waarbij NTDS staat voor New Technology Directory Service en DIT voor Data Information Table.

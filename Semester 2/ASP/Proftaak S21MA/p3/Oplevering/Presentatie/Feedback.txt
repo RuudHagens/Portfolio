@@ -1,0 +1,13 @@
+-als 11g op een spoor staat kan een andere eroverheen worden gezet via tram invoeren.
+-pres goed voorbereid
+-code:
+goed 3 laags
+goede structuur
+niet te zien wie wat heeft gedaan(goed)
+commentaar beter, begin met commentaar dan pas coderen
+-Wachtwoord vergeten nog niet geïmplementeerd
+-interface bij onderhoud en schoonmaak commentaar kunnen toevoegen wat er mee is.
+-bij inrij onderhoud weg halen en tekst neer zetten dat hij contact op moet nemen met de wagenpark beheerder.
+-peer review van mick opsturen
+-volgende keer niet via visual studio draain
+-atp opsturen

@@ -1,0 +1,36 @@
+Applicatie
+	- algemeen
+		Niet gebruikte methodes verwijderen ✔
+		commentaar bij code ✔
+		(style cop)
+	- schoonmaak
+		Session meegeven van ingelogde gebruiker ✔
+		Status naar remise veranderen als beurt klaar is ✔
+	- Onderhoud
+		Session meegeven van ingelogde gebruiker ✔
+		Status van remise veranderen als beurt klaar is ✔
+	- Bestuurder
+		Tram naar schoonmaak sturen ✔
+		Mail sturen
+		Barcode
+	- Wagenparkbeheer
+		Tram naar onderhoud (optioneel) ✔
+		Tram naar schoonmaak (optioneel) ✔
+		Mail sturen
+		
+Documentatie
+	- ATP
+	- Project dossier
+		pid toevoegen
+		bijlage toevoegen (agenda's en notulen)
+		
+	- Presentatie
+		zelfde opzet presentatie als p3
+		stappen plan
+	- Forms in analyse en ontwerp zetten ✔
+	- Klassen diagram aanpassen + beschrijving 
+	- Beschrijving bij klassen diagram
+	- Wijzigingen database ✔
+	- 
+		
+		

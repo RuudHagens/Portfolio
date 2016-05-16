@@ -1,0 +1,28 @@
+Presentatie:
+
+- Infrastructuur:
+	- Demo ontwerp
+	- Implementatie ontwerp
+- Database:
+	- Aangepast Database ontwerp, waarom veranderingen doorgevoerd.
+	- Database op server, werkt vpn niet lokaal
+- Software:
+	- Aangepast Klassendiagram, waarom deze aanpassingen gemaakt.
+	- Plaatjes nog toegevoegd omdat dit geen must was
+- Plan van aanpak Demo:
+	- Maken gebruik van vpn voor de connectie met de database (zeker met de rfid)
+	- Als vpn niet werkt maken we gebruik van de lokale database.
+	- Maken gebruik van de laptop van Kenneth, als deze niet werkt vallen we terug op de laptop van Mick, en anders op die van Ruud, mochten die alle drie niet werken,
+	  dan maken we gebruik van de laptop van Chiel.
+	- Rol verdeling:
+		- Mick: Proof of concept
+			- ProductDecompositie
+			- ATP verandert
+			- Nieuw db ontwerp en klassendiagram
+		- Chiel: Infrastructuur
+			- Demo ontwerp
+			- Implementatie ontwerp op remise
+		- Ruud: Demo
+			- Werkt senario uit
+		- Kenneth: Helpt ruud bij senario
+			- Volgt instructies op van ruud.

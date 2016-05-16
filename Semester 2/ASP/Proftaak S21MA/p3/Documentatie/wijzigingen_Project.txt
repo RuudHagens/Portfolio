@@ -1,0 +1,28 @@
+- Methode VoegAlleTextboxenToeAanLijst() aangepast, zodat hij niet de sporen 74 t/m 77 en 11 t/m 21 toegevoegd aan de lijst
+  Omdat dit onderhouds en schoonmaak sporen zijn.
+- Methode HaalRandomTextboxUitLijst() toegevoegd, zodat er een random textbox uit de lijst word gehaald. En hij geeft dan tb(spoorNr)c terug, bij de sector word
+  gekeken of de eerste vol is, is de eerste vol, dan kijkt hij of de 2e vol is enzovoort.
+- List<Tram> trams toegevoegd zodat er een lijst aanwezig is met trams.
+  
+  
+  
+  
+  Nog te doen:
+  TramSysteem:
+  V Trams op spoor zetten via tramsysteem (niet alleen spoor tonen)
+  - Trams op schoonmaak spoor zetten via tramsysteem 
+  - Melding geven wanneer onderhouds of schoonmaak sporen vol zijn
+  V Melding wanneer er een niet bestaand tramnummer ingevoerd kan worden.
+  - 
+  
+  Schoonmaak & Onderhoud:
+  - Bij onderhoud geen melding als er geen beurten gevonden zijn, bij schoonmaak wel
+  
+  Wagenparkbeheer:
+  V Simulatie verder afmaken / verbeteren
+  - tram naar onderhoud of schoonmaak sturen en op het juiste spoor plaatsen
+  - trams van schoonmaak of onderhouds spoor af.
+  
+  
+  Plattegrond:
+  V Foto toevoegen

@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52058ACF-CCA3-48E3-8DBA-2DBB2330CD05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserInterfacesTVS</RootNamespace>
+    <AssemblyName>UserInterfacesTVS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bestuurderscherm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bestuurderscherm.Designer.cs">
+      <DependentUpon>Bestuurderscherm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoofdscherm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoofdscherm.Designer.cs">
+      <DependentUpon>Hoofdscherm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Onderhoud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Onderhoud.Designer.cs">
+      <DependentUpon>Onderhoud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Plattegrond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Plattegrond.Designer.cs">
+      <DependentUpon>Plattegrond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Schoonmaak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Schoonmaak.Designer.cs">
+      <DependentUpon>Schoonmaak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WachtwoordVergeten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WachtwoordVergeten.Designer.cs">
+      <DependentUpon>WachtwoordVergeten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WagenparkBeheer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WagenparkBeheer.Designer.cs">
+      <DependentUpon>WagenparkBeheer.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bestuurderscherm.resx">
+      <DependentUpon>Bestuurderscherm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoofdscherm.resx">
+      <DependentUpon>Hoofdscherm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Onderhoud.resx">
+      <DependentUpon>Onderhoud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Plattegrond.resx">
+      <DependentUpon>Plattegrond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Schoonmaak.resx">
+      <DependentUpon>Schoonmaak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WachtwoordVergeten.resx">
+      <DependentUpon>WachtwoordVergeten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WagenparkBeheer.resx">
+      <DependentUpon>WagenparkBeheer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\UserInterfacesTVS.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\UserInterfacesTVS.Properties.Settings.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plattegrond.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
